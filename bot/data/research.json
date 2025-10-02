@@ -1,0 +1,1200 @@
+[
+  {
+    "code": "TECH_001",
+    "name": "Исследование #1",
+    "branch": "energy",
+    "tier": 1,
+    "cost": 2031,
+    "prereq": [],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 16,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_002",
+    "name": "Исследование #2",
+    "branch": "transport",
+    "tier": 1,
+    "cost": 3590,
+    "prereq": [
+      "TECH_001"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 8,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_003",
+    "name": "Исследование #3",
+    "branch": "social",
+    "tier": 1,
+    "cost": 1565,
+    "prereq": [
+      "TECH_001"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 8,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_004",
+    "name": "Исследование #4",
+    "branch": "ecology",
+    "tier": 1,
+    "cost": 3207,
+    "prereq": [
+      "TECH_001"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 4,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_005",
+    "name": "Исследование #5",
+    "branch": "governance",
+    "tier": 1,
+    "cost": 1759,
+    "prereq": [
+      "TECH_001"
+    ],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 19,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_006",
+    "name": "Исследование #6",
+    "branch": "economy",
+    "tier": 1,
+    "cost": 2967,
+    "prereq": [
+      "TECH_001"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 18,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_007",
+    "name": "Исследование #7",
+    "branch": "energy",
+    "tier": 1,
+    "cost": 1097,
+    "prereq": [
+      "TECH_002"
+    ],
+    "effects": {
+      "income_multiplier": 0.12,
+      "energy_cap": 10,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_008",
+    "name": "Исследование #8",
+    "branch": "transport",
+    "tier": 1,
+    "cost": 2006,
+    "prereq": [
+      "TECH_003"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 16,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_009",
+    "name": "Исследование #9",
+    "branch": "social",
+    "tier": 1,
+    "cost": 3907,
+    "prereq": [
+      "TECH_004"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 12,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_010",
+    "name": "Исследование #10",
+    "branch": "ecology",
+    "tier": 2,
+    "cost": 3362,
+    "prereq": [
+      "TECH_005"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 6,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_011",
+    "name": "Исследование #11",
+    "branch": "governance",
+    "tier": 2,
+    "cost": 3212,
+    "prereq": [
+      "TECH_006"
+    ],
+    "effects": {
+      "income_multiplier": 0.06,
+      "energy_cap": 6,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_012",
+    "name": "Исследование #12",
+    "branch": "economy",
+    "tier": 2,
+    "cost": 572,
+    "prereq": [
+      "TECH_007"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 11,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_013",
+    "name": "Исследование #13",
+    "branch": "energy",
+    "tier": 2,
+    "cost": 2468,
+    "prereq": [
+      "TECH_008"
+    ],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 19,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_014",
+    "name": "Исследование #14",
+    "branch": "transport",
+    "tier": 2,
+    "cost": 826,
+    "prereq": [
+      "TECH_009"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 10,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_015",
+    "name": "Исследование #15",
+    "branch": "social",
+    "tier": 2,
+    "cost": 1428,
+    "prereq": [
+      "TECH_010"
+    ],
+    "effects": {
+      "income_multiplier": 0.06,
+      "energy_cap": 17,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_016",
+    "name": "Исследование #16",
+    "branch": "ecology",
+    "tier": 2,
+    "cost": 702,
+    "prereq": [
+      "TECH_011"
+    ],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 11,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_017",
+    "name": "Исследование #17",
+    "branch": "governance",
+    "tier": 2,
+    "cost": 4487,
+    "prereq": [
+      "TECH_012"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 20,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_018",
+    "name": "Исследование #18",
+    "branch": "economy",
+    "tier": 2,
+    "cost": 3124,
+    "prereq": [
+      "TECH_013"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 3,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_019",
+    "name": "Исследование #19",
+    "branch": "energy",
+    "tier": 2,
+    "cost": 4907,
+    "prereq": [
+      "TECH_014"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 20,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_020",
+    "name": "Исследование #20",
+    "branch": "transport",
+    "tier": 3,
+    "cost": 2226,
+    "prereq": [
+      "TECH_015"
+    ],
+    "effects": {
+      "income_multiplier": 0.1,
+      "energy_cap": 6,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_021",
+    "name": "Исследование #21",
+    "branch": "social",
+    "tier": 3,
+    "cost": 1351,
+    "prereq": [
+      "TECH_016"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 13,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_022",
+    "name": "Исследование #22",
+    "branch": "ecology",
+    "tier": 3,
+    "cost": 1759,
+    "prereq": [
+      "TECH_017"
+    ],
+    "effects": {
+      "income_multiplier": 0.01,
+      "energy_cap": 10,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_023",
+    "name": "Исследование #23",
+    "branch": "governance",
+    "tier": 3,
+    "cost": 1216,
+    "prereq": [
+      "TECH_018"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 5,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_024",
+    "name": "Исследование #24",
+    "branch": "economy",
+    "tier": 3,
+    "cost": 1077,
+    "prereq": [
+      "TECH_019"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 7,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_025",
+    "name": "Исследование #25",
+    "branch": "energy",
+    "tier": 3,
+    "cost": 3839,
+    "prereq": [
+      "TECH_020"
+    ],
+    "effects": {
+      "income_multiplier": 0.06,
+      "energy_cap": 20,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_026",
+    "name": "Исследование #26",
+    "branch": "transport",
+    "tier": 3,
+    "cost": 4047,
+    "prereq": [
+      "TECH_021"
+    ],
+    "effects": {
+      "income_multiplier": 0.05,
+      "energy_cap": 12,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_027",
+    "name": "Исследование #27",
+    "branch": "social",
+    "tier": 3,
+    "cost": 4881,
+    "prereq": [
+      "TECH_022"
+    ],
+    "effects": {
+      "income_multiplier": 0.01,
+      "energy_cap": 19,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_028",
+    "name": "Исследование #28",
+    "branch": "ecology",
+    "tier": 3,
+    "cost": 872,
+    "prereq": [
+      "TECH_023"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 2,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_029",
+    "name": "Исследование #29",
+    "branch": "governance",
+    "tier": 3,
+    "cost": 4619,
+    "prereq": [
+      "TECH_024"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 9,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_030",
+    "name": "Исследование #30",
+    "branch": "economy",
+    "tier": 4,
+    "cost": 2806,
+    "prereq": [
+      "TECH_025"
+    ],
+    "effects": {
+      "income_multiplier": 0.12,
+      "energy_cap": 14,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_031",
+    "name": "Исследование #31",
+    "branch": "energy",
+    "tier": 4,
+    "cost": 3736,
+    "prereq": [
+      "TECH_026"
+    ],
+    "effects": {
+      "income_multiplier": 0.13,
+      "energy_cap": 0,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_032",
+    "name": "Исследование #32",
+    "branch": "transport",
+    "tier": 4,
+    "cost": 1780,
+    "prereq": [
+      "TECH_027"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 4,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_033",
+    "name": "Исследование #33",
+    "branch": "social",
+    "tier": 4,
+    "cost": 4970,
+    "prereq": [
+      "TECH_028"
+    ],
+    "effects": {
+      "income_multiplier": 0.05,
+      "energy_cap": 20,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_034",
+    "name": "Исследование #34",
+    "branch": "ecology",
+    "tier": 4,
+    "cost": 2941,
+    "prereq": [
+      "TECH_029"
+    ],
+    "effects": {
+      "income_multiplier": 0.1,
+      "energy_cap": 20,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_035",
+    "name": "Исследование #35",
+    "branch": "governance",
+    "tier": 4,
+    "cost": 591,
+    "prereq": [
+      "TECH_030"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 17,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_036",
+    "name": "Исследование #36",
+    "branch": "economy",
+    "tier": 4,
+    "cost": 1509,
+    "prereq": [
+      "TECH_031"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 18,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_037",
+    "name": "Исследование #37",
+    "branch": "energy",
+    "tier": 4,
+    "cost": 4900,
+    "prereq": [
+      "TECH_032"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 2,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_038",
+    "name": "Исследование #38",
+    "branch": "transport",
+    "tier": 4,
+    "cost": 2220,
+    "prereq": [
+      "TECH_033"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 11,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_039",
+    "name": "Исследование #39",
+    "branch": "social",
+    "tier": 4,
+    "cost": 3880,
+    "prereq": [
+      "TECH_034"
+    ],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 16,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_040",
+    "name": "Исследование #40",
+    "branch": "ecology",
+    "tier": 5,
+    "cost": 1818,
+    "prereq": [
+      "TECH_035"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 19,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_041",
+    "name": "Исследование #41",
+    "branch": "governance",
+    "tier": 5,
+    "cost": 2091,
+    "prereq": [
+      "TECH_036"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 18,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_042",
+    "name": "Исследование #42",
+    "branch": "economy",
+    "tier": 5,
+    "cost": 4996,
+    "prereq": [
+      "TECH_037"
+    ],
+    "effects": {
+      "income_multiplier": 0.07,
+      "energy_cap": 17,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_043",
+    "name": "Исследование #43",
+    "branch": "energy",
+    "tier": 5,
+    "cost": 2881,
+    "prereq": [
+      "TECH_038"
+    ],
+    "effects": {
+      "income_multiplier": 0.1,
+      "energy_cap": 8,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_044",
+    "name": "Исследование #44",
+    "branch": "transport",
+    "tier": 5,
+    "cost": 2117,
+    "prereq": [
+      "TECH_039"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 15,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_045",
+    "name": "Исследование #45",
+    "branch": "social",
+    "tier": 5,
+    "cost": 3425,
+    "prereq": [
+      "TECH_040"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 20,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_046",
+    "name": "Исследование #46",
+    "branch": "ecology",
+    "tier": 5,
+    "cost": 1319,
+    "prereq": [
+      "TECH_041"
+    ],
+    "effects": {
+      "income_multiplier": 0.05,
+      "energy_cap": 2,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_047",
+    "name": "Исследование #47",
+    "branch": "governance",
+    "tier": 5,
+    "cost": 3103,
+    "prereq": [
+      "TECH_042"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 10,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_048",
+    "name": "Исследование #48",
+    "branch": "economy",
+    "tier": 5,
+    "cost": 1748,
+    "prereq": [
+      "TECH_043"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 11,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_049",
+    "name": "Исследование #49",
+    "branch": "energy",
+    "tier": 5,
+    "cost": 4008,
+    "prereq": [
+      "TECH_044"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 10,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_050",
+    "name": "Исследование #50",
+    "branch": "transport",
+    "tier": 6,
+    "cost": 2314,
+    "prereq": [
+      "TECH_045"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 20,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_051",
+    "name": "Исследование #51",
+    "branch": "social",
+    "tier": 6,
+    "cost": 2766,
+    "prereq": [
+      "TECH_046"
+    ],
+    "effects": {
+      "income_multiplier": 0.13,
+      "energy_cap": 4,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_052",
+    "name": "Исследование #52",
+    "branch": "ecology",
+    "tier": 6,
+    "cost": 4431,
+    "prereq": [
+      "TECH_047"
+    ],
+    "effects": {
+      "income_multiplier": 0.07,
+      "energy_cap": 11,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_053",
+    "name": "Исследование #53",
+    "branch": "governance",
+    "tier": 6,
+    "cost": 4489,
+    "prereq": [
+      "TECH_048"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 5,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_054",
+    "name": "Исследование #54",
+    "branch": "economy",
+    "tier": 6,
+    "cost": 2798,
+    "prereq": [
+      "TECH_049"
+    ],
+    "effects": {
+      "income_multiplier": 0.13,
+      "energy_cap": 4,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_055",
+    "name": "Исследование #55",
+    "branch": "energy",
+    "tier": 6,
+    "cost": 2656,
+    "prereq": [
+      "TECH_050"
+    ],
+    "effects": {
+      "income_multiplier": 0.11,
+      "energy_cap": 20,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_056",
+    "name": "Исследование #56",
+    "branch": "transport",
+    "tier": 6,
+    "cost": 1117,
+    "prereq": [
+      "TECH_051"
+    ],
+    "effects": {
+      "income_multiplier": 0.13,
+      "energy_cap": 16,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_057",
+    "name": "Исследование #57",
+    "branch": "social",
+    "tier": 6,
+    "cost": 3818,
+    "prereq": [
+      "TECH_052"
+    ],
+    "effects": {
+      "income_multiplier": 0.12,
+      "energy_cap": 6,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_058",
+    "name": "Исследование #58",
+    "branch": "ecology",
+    "tier": 6,
+    "cost": 2634,
+    "prereq": [
+      "TECH_053"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 17,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_059",
+    "name": "Исследование #59",
+    "branch": "governance",
+    "tier": 6,
+    "cost": 1717,
+    "prereq": [
+      "TECH_054"
+    ],
+    "effects": {
+      "income_multiplier": 0.06,
+      "energy_cap": 7,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_060",
+    "name": "Исследование #60",
+    "branch": "economy",
+    "tier": 7,
+    "cost": 1596,
+    "prereq": [
+      "TECH_055"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 16,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_061",
+    "name": "Исследование #61",
+    "branch": "energy",
+    "tier": 7,
+    "cost": 3750,
+    "prereq": [
+      "TECH_056"
+    ],
+    "effects": {
+      "income_multiplier": 0.06,
+      "energy_cap": 0,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_062",
+    "name": "Исследование #62",
+    "branch": "transport",
+    "tier": 7,
+    "cost": 1858,
+    "prereq": [
+      "TECH_057"
+    ],
+    "effects": {
+      "income_multiplier": 0.12,
+      "energy_cap": 4,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_063",
+    "name": "Исследование #63",
+    "branch": "social",
+    "tier": 7,
+    "cost": 1804,
+    "prereq": [
+      "TECH_058"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 18,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_064",
+    "name": "Исследование #64",
+    "branch": "ecology",
+    "tier": 7,
+    "cost": 4460,
+    "prereq": [
+      "TECH_059"
+    ],
+    "effects": {
+      "income_multiplier": 0.14,
+      "energy_cap": 1,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_065",
+    "name": "Исследование #65",
+    "branch": "governance",
+    "tier": 7,
+    "cost": 4494,
+    "prereq": [
+      "TECH_060"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 8,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_066",
+    "name": "Исследование #66",
+    "branch": "economy",
+    "tier": 7,
+    "cost": 2417,
+    "prereq": [
+      "TECH_061"
+    ],
+    "effects": {
+      "income_multiplier": 0.02,
+      "energy_cap": 6,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_067",
+    "name": "Исследование #67",
+    "branch": "energy",
+    "tier": 7,
+    "cost": 3679,
+    "prereq": [
+      "TECH_062"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 14,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_068",
+    "name": "Исследование #68",
+    "branch": "transport",
+    "tier": 7,
+    "cost": 826,
+    "prereq": [
+      "TECH_063"
+    ],
+    "effects": {
+      "income_multiplier": 0.15,
+      "energy_cap": 10,
+      "slot_bonus": 0
+    }
+  },
+  {
+    "code": "TECH_069",
+    "name": "Исследование #69",
+    "branch": "social",
+    "tier": 7,
+    "cost": 4771,
+    "prereq": [
+      "TECH_064"
+    ],
+    "effects": {
+      "income_multiplier": 0.1,
+      "energy_cap": 8,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_070",
+    "name": "Исследование #70",
+    "branch": "ecology",
+    "tier": 8,
+    "cost": 4959,
+    "prereq": [
+      "TECH_065"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 12,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_071",
+    "name": "Исследование #71",
+    "branch": "governance",
+    "tier": 8,
+    "cost": 3492,
+    "prereq": [
+      "TECH_066"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 2,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_072",
+    "name": "Исследование #72",
+    "branch": "economy",
+    "tier": 8,
+    "cost": 3582,
+    "prereq": [
+      "TECH_067"
+    ],
+    "effects": {
+      "income_multiplier": 0.15,
+      "energy_cap": 7,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_073",
+    "name": "Исследование #73",
+    "branch": "energy",
+    "tier": 8,
+    "cost": 3390,
+    "prereq": [
+      "TECH_068"
+    ],
+    "effects": {
+      "income_multiplier": 0.12,
+      "energy_cap": 11,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_074",
+    "name": "Исследование #74",
+    "branch": "transport",
+    "tier": 8,
+    "cost": 4449,
+    "prereq": [
+      "TECH_069"
+    ],
+    "effects": {
+      "income_multiplier": 0.13,
+      "energy_cap": 0,
+      "slot_bonus": 1
+    }
+  },
+  {
+    "code": "TECH_075",
+    "name": "Исследование #75",
+    "branch": "social",
+    "tier": 8,
+    "cost": 4103,
+    "prereq": [
+      "TECH_070"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 2,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_076",
+    "name": "Исследование #76",
+    "branch": "ecology",
+    "tier": 8,
+    "cost": 2232,
+    "prereq": [
+      "TECH_071"
+    ],
+    "effects": {
+      "income_multiplier": 0.03,
+      "energy_cap": 5,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_077",
+    "name": "Исследование #77",
+    "branch": "governance",
+    "tier": 8,
+    "cost": 1469,
+    "prereq": [
+      "TECH_072"
+    ],
+    "effects": {
+      "income_multiplier": 0.1,
+      "energy_cap": 13,
+      "slot_bonus": 2
+    }
+  },
+  {
+    "code": "TECH_078",
+    "name": "Исследование #78",
+    "branch": "economy",
+    "tier": 8,
+    "cost": 1428,
+    "prereq": [
+      "TECH_073"
+    ],
+    "effects": {
+      "income_multiplier": 0.08,
+      "energy_cap": 15,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_079",
+    "name": "Исследование #79",
+    "branch": "energy",
+    "tier": 8,
+    "cost": 2226,
+    "prereq": [
+      "TECH_074"
+    ],
+    "effects": {
+      "income_multiplier": 0.09,
+      "energy_cap": 20,
+      "slot_bonus": 3
+    }
+  },
+  {
+    "code": "TECH_080",
+    "name": "Исследование #80",
+    "branch": "transport",
+    "tier": 9,
+    "cost": 683,
+    "prereq": [
+      "TECH_075"
+    ],
+    "effects": {
+      "income_multiplier": 0.04,
+      "energy_cap": 4,
+      "slot_bonus": 1
+    }
+  }
+]

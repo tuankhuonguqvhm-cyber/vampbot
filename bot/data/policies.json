@@ -1,0 +1,722 @@
+[
+  {
+    "code": "POL_001",
+    "name": "Политика #1",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 20,
+    "effects": {
+      "income": 0.1,
+      "happiness": -9,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_002",
+    "name": "Политика #2",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 21,
+    "effects": {
+      "income": -0.13,
+      "happiness": -2,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_003",
+    "name": "Политика #3",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 45,
+    "effects": {
+      "income": 0.23,
+      "happiness": 9,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_004",
+    "name": "Политика #4",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 52,
+    "effects": {
+      "income": -0.14,
+      "happiness": 13,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_005",
+    "name": "Политика #5",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 64,
+    "effects": {
+      "income": -0.04,
+      "happiness": -8,
+      "energy": -2
+    }
+  },
+  {
+    "code": "POL_006",
+    "name": "Политика #6",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 40,
+    "effects": {
+      "income": 0.09,
+      "happiness": 5,
+      "energy": 2
+    }
+  },
+  {
+    "code": "POL_007",
+    "name": "Политика #7",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 22,
+    "effects": {
+      "income": -0.06,
+      "happiness": 3,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_008",
+    "name": "Политика #8",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 21,
+    "effects": {
+      "income": 0.17,
+      "happiness": 14,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_009",
+    "name": "Политика #9",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 51,
+    "effects": {
+      "income": 0.11,
+      "happiness": -2,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_010",
+    "name": "Политика #10",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 58,
+    "effects": {
+      "income": 0.12,
+      "happiness": 4,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_011",
+    "name": "Политика #11",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 49,
+    "effects": {
+      "income": -0.12,
+      "happiness": 2,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_012",
+    "name": "Политика #12",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 20,
+    "effects": {
+      "income": -0.11,
+      "happiness": -4,
+      "energy": 3
+    }
+  },
+  {
+    "code": "POL_013",
+    "name": "Политика #13",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 67,
+    "effects": {
+      "income": 0.21,
+      "happiness": 11,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_014",
+    "name": "Политика #14",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 64,
+    "effects": {
+      "income": -0.09,
+      "happiness": -7,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_015",
+    "name": "Политика #15",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 42,
+    "effects": {
+      "income": 0.21,
+      "happiness": 9,
+      "energy": -5
+    }
+  },
+  {
+    "code": "POL_016",
+    "name": "Политика #16",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 68,
+    "effects": {
+      "income": 0.16,
+      "happiness": 6,
+      "energy": -4
+    }
+  },
+  {
+    "code": "POL_017",
+    "name": "Политика #17",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 17,
+    "effects": {
+      "income": 0.04,
+      "happiness": -6,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_018",
+    "name": "Политика #18",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 46,
+    "effects": {
+      "income": 0.18,
+      "happiness": 14,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_019",
+    "name": "Политика #19",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 53,
+    "effects": {
+      "income": 0.02,
+      "happiness": 3,
+      "energy": 0
+    }
+  },
+  {
+    "code": "POL_020",
+    "name": "Политика #20",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 67,
+    "effects": {
+      "income": -0.13,
+      "happiness": 6,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_021",
+    "name": "Политика #21",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 26,
+    "effects": {
+      "income": 0.23,
+      "happiness": 5,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_022",
+    "name": "Политика #22",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 34,
+    "effects": {
+      "income": 0.09,
+      "happiness": 13,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_023",
+    "name": "Политика #23",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 18,
+    "effects": {
+      "income": 0.02,
+      "happiness": -2,
+      "energy": 2
+    }
+  },
+  {
+    "code": "POL_024",
+    "name": "Политика #24",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 61,
+    "effects": {
+      "income": -0.06,
+      "happiness": -8,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_025",
+    "name": "Политика #25",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 50,
+    "effects": {
+      "income": 0.2,
+      "happiness": 3,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_026",
+    "name": "Политика #26",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 24,
+    "effects": {
+      "income": -0.15,
+      "happiness": 13,
+      "energy": -5
+    }
+  },
+  {
+    "code": "POL_027",
+    "name": "Политика #27",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 48,
+    "effects": {
+      "income": 0.06,
+      "happiness": 6,
+      "energy": -5
+    }
+  },
+  {
+    "code": "POL_028",
+    "name": "Политика #28",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 36,
+    "effects": {
+      "income": 0.11,
+      "happiness": 12,
+      "energy": 0
+    }
+  },
+  {
+    "code": "POL_029",
+    "name": "Политика #29",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 38,
+    "effects": {
+      "income": -0.01,
+      "happiness": -6,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_030",
+    "name": "Политика #30",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 53,
+    "effects": {
+      "income": 0.08,
+      "happiness": -2,
+      "energy": 3
+    }
+  },
+  {
+    "code": "POL_031",
+    "name": "Политика #31",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 39,
+    "effects": {
+      "income": 0.08,
+      "happiness": 9,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_032",
+    "name": "Политика #32",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 55,
+    "effects": {
+      "income": 0.01,
+      "happiness": -4,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_033",
+    "name": "Политика #33",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 47,
+    "effects": {
+      "income": 0.16,
+      "happiness": 5,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_034",
+    "name": "Политика #34",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 35,
+    "effects": {
+      "income": 0.07,
+      "happiness": 5,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_035",
+    "name": "Политика #35",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 31,
+    "effects": {
+      "income": 0.08,
+      "happiness": 14,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_036",
+    "name": "Политика #36",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 59,
+    "effects": {
+      "income": -0.09,
+      "happiness": 11,
+      "energy": -4
+    }
+  },
+  {
+    "code": "POL_037",
+    "name": "Политика #37",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 59,
+    "effects": {
+      "income": -0.06,
+      "happiness": 15,
+      "energy": -3
+    }
+  },
+  {
+    "code": "POL_038",
+    "name": "Политика #38",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 18,
+    "effects": {
+      "income": -0.06,
+      "happiness": 2,
+      "energy": 0
+    }
+  },
+  {
+    "code": "POL_039",
+    "name": "Политика #39",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 63,
+    "effects": {
+      "income": 0.07,
+      "happiness": 12,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_040",
+    "name": "Политика #40",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 57,
+    "effects": {
+      "income": -0.13,
+      "happiness": 2,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_041",
+    "name": "Политика #41",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 12,
+    "effects": {
+      "income": 0.17,
+      "happiness": -6,
+      "energy": 2
+    }
+  },
+  {
+    "code": "POL_042",
+    "name": "Политика #42",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 71,
+    "effects": {
+      "income": 0.09,
+      "happiness": -8,
+      "energy": -4
+    }
+  },
+  {
+    "code": "POL_043",
+    "name": "Политика #43",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 28,
+    "effects": {
+      "income": -0.06,
+      "happiness": -8,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_044",
+    "name": "Политика #44",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 14,
+    "effects": {
+      "income": 0.14,
+      "happiness": 2,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_045",
+    "name": "Политика #45",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 53,
+    "effects": {
+      "income": 0.06,
+      "happiness": 12,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_046",
+    "name": "Политика #46",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 15,
+    "effects": {
+      "income": 0.23,
+      "happiness": -5,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_047",
+    "name": "Политика #47",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 43,
+    "effects": {
+      "income": 0.03,
+      "happiness": -4,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_048",
+    "name": "Политика #48",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 71,
+    "effects": {
+      "income": 0.17,
+      "happiness": -1,
+      "energy": -2
+    }
+  },
+  {
+    "code": "POL_049",
+    "name": "Политика #49",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 14,
+    "effects": {
+      "income": 0.16,
+      "happiness": 6,
+      "energy": 3
+    }
+  },
+  {
+    "code": "POL_050",
+    "name": "Политика #50",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 56,
+    "effects": {
+      "income": -0.06,
+      "happiness": -5,
+      "energy": 5
+    }
+  },
+  {
+    "code": "POL_051",
+    "name": "Политика #51",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 14,
+    "effects": {
+      "income": -0.01,
+      "happiness": 10,
+      "energy": -5
+    }
+  },
+  {
+    "code": "POL_052",
+    "name": "Политика #52",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 22,
+    "effects": {
+      "income": -0.12,
+      "happiness": -2,
+      "energy": 1
+    }
+  },
+  {
+    "code": "POL_053",
+    "name": "Политика #53",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 34,
+    "effects": {
+      "income": 0.12,
+      "happiness": 2,
+      "energy": 4
+    }
+  },
+  {
+    "code": "POL_054",
+    "name": "Политика #54",
+    "type": "safety",
+    "description": "Временная политика safety, меняющая параметры города.",
+    "cooldown_hours": 24,
+    "effects": {
+      "income": 0.06,
+      "happiness": 13,
+      "energy": -4
+    }
+  },
+  {
+    "code": "POL_055",
+    "name": "Политика #55",
+    "type": "eco",
+    "description": "Временная политика eco, меняющая параметры города.",
+    "cooldown_hours": 70,
+    "effects": {
+      "income": -0.11,
+      "happiness": -1,
+      "energy": 3
+    }
+  },
+  {
+    "code": "POL_056",
+    "name": "Политика #56",
+    "type": "tax",
+    "description": "Временная политика tax, меняющая параметры города.",
+    "cooldown_hours": 70,
+    "effects": {
+      "income": 0.08,
+      "happiness": 1,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_057",
+    "name": "Политика #57",
+    "type": "culture",
+    "description": "Временная политика culture, меняющая параметры города.",
+    "cooldown_hours": 26,
+    "effects": {
+      "income": 0.09,
+      "happiness": -4,
+      "energy": 2
+    }
+  },
+  {
+    "code": "POL_058",
+    "name": "Политика #58",
+    "type": "energy",
+    "description": "Временная политика energy, меняющая параметры города.",
+    "cooldown_hours": 71,
+    "effects": {
+      "income": 0.01,
+      "happiness": -10,
+      "energy": -1
+    }
+  },
+  {
+    "code": "POL_059",
+    "name": "Политика #59",
+    "type": "housing",
+    "description": "Временная политика housing, меняющая параметры города.",
+    "cooldown_hours": 23,
+    "effects": {
+      "income": 0.01,
+      "happiness": -7,
+      "energy": 3
+    }
+  },
+  {
+    "code": "POL_060",
+    "name": "Политика #60",
+    "type": "industry",
+    "description": "Временная политика industry, меняющая параметры города.",
+    "cooldown_hours": 16,
+    "effects": {
+      "income": 0.05,
+      "happiness": 0,
+      "energy": -4
+    }
+  }
+]

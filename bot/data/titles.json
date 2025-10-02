@@ -1,0 +1,1082 @@
+[
+  {
+    "code": "TITLE_001",
+    "name": "Титул #1",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 502,
+      "achievements": [
+        "ACH_158"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_002",
+    "name": "Титул #2",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 472,
+      "achievements": [
+        "ACH_134"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_003",
+    "name": "Титул #3",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 360,
+      "achievements": [
+        "ACH_006"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_004",
+    "name": "Титул #4",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 585,
+      "achievements": [
+        "ACH_070"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_005",
+    "name": "Титул #5",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 343,
+      "achievements": [
+        "ACH_241"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_006",
+    "name": "Титул #6",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 754,
+      "achievements": [
+        "ACH_252"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_007",
+    "name": "Титул #7",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 356,
+      "achievements": [
+        "ACH_005"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_008",
+    "name": "Титул #8",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 867,
+      "achievements": [
+        "ACH_150"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_009",
+    "name": "Титул #9",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 865,
+      "achievements": [
+        "ACH_004"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_010",
+    "name": "Титул #10",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 243,
+      "achievements": [
+        "ACH_211"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_011",
+    "name": "Титул #11",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 454,
+      "achievements": [
+        "ACH_128"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_012",
+    "name": "Титул #12",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 782,
+      "achievements": [
+        "ACH_331"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_013",
+    "name": "Титул #13",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 898,
+      "achievements": [
+        "ACH_194"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_014",
+    "name": "Титул #14",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 319,
+      "achievements": [
+        "ACH_041"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_015",
+    "name": "Титул #15",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 690,
+      "achievements": [
+        "ACH_123"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_016",
+    "name": "Титул #16",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 341,
+      "achievements": [
+        "ACH_333"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_017",
+    "name": "Титул #17",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 472,
+      "achievements": [
+        "ACH_097"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_018",
+    "name": "Титул #18",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 236,
+      "achievements": [
+        "ACH_070"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_019",
+    "name": "Титул #19",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 163,
+      "achievements": [
+        "ACH_327"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_020",
+    "name": "Титул #20",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 682,
+      "achievements": [
+        "ACH_232"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_021",
+    "name": "Титул #21",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 767,
+      "achievements": [
+        "ACH_319"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_022",
+    "name": "Титул #22",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 242,
+      "achievements": [
+        "ACH_165"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_023",
+    "name": "Титул #23",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 205,
+      "achievements": [
+        "ACH_026"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_024",
+    "name": "Титул #24",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 240,
+      "achievements": [
+        "ACH_053"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_025",
+    "name": "Титул #25",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 325,
+      "achievements": [
+        "ACH_065"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_026",
+    "name": "Титул #26",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 794,
+      "achievements": [
+        "ACH_005"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_027",
+    "name": "Титул #27",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 142,
+      "achievements": [
+        "ACH_078"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_028",
+    "name": "Титул #28",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 555,
+      "achievements": [
+        "ACH_112"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_029",
+    "name": "Титул #29",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 480,
+      "achievements": [
+        "ACH_160"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_030",
+    "name": "Титул #30",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 430,
+      "achievements": [
+        "ACH_238"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_031",
+    "name": "Титул #31",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 388,
+      "achievements": [
+        "ACH_042"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_032",
+    "name": "Титул #32",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 107,
+      "achievements": [
+        "ACH_137"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_033",
+    "name": "Титул #33",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 123,
+      "achievements": [
+        "ACH_279"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_034",
+    "name": "Титул #34",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 235,
+      "achievements": [
+        "ACH_099"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_035",
+    "name": "Титул #35",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 886,
+      "achievements": [
+        "ACH_196"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_036",
+    "name": "Титул #36",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 174,
+      "achievements": [
+        "ACH_128"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_037",
+    "name": "Титул #37",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 839,
+      "achievements": [
+        "ACH_227"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_038",
+    "name": "Титул #38",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 805,
+      "achievements": [
+        "ACH_018"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_039",
+    "name": "Титул #39",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 521,
+      "achievements": [
+        "ACH_049"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_040",
+    "name": "Титул #40",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 534,
+      "achievements": [
+        "ACH_200"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_041",
+    "name": "Титул #41",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 380,
+      "achievements": [
+        "ACH_082"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_042",
+    "name": "Титул #42",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 812,
+      "achievements": [
+        "ACH_282"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_043",
+    "name": "Титул #43",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 309,
+      "achievements": [
+        "ACH_247"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_044",
+    "name": "Титул #44",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 253,
+      "achievements": [
+        "ACH_185"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_045",
+    "name": "Титул #45",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 934,
+      "achievements": [
+        "ACH_342"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_046",
+    "name": "Титул #46",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 165,
+      "achievements": [
+        "ACH_121"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_047",
+    "name": "Титул #47",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 382,
+      "achievements": [
+        "ACH_008"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_048",
+    "name": "Титул #48",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 863,
+      "achievements": [
+        "ACH_142"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_049",
+    "name": "Титул #49",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 455,
+      "achievements": [
+        "ACH_125"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_050",
+    "name": "Титул #50",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 93,
+      "achievements": [
+        "ACH_298"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_051",
+    "name": "Титул #51",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 754,
+      "achievements": [
+        "ACH_306"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_052",
+    "name": "Титул #52",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 430,
+      "achievements": [
+        "ACH_046"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_053",
+    "name": "Титул #53",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 211,
+      "achievements": [
+        "ACH_256"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_054",
+    "name": "Титул #54",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 752,
+      "achievements": [
+        "ACH_317"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_055",
+    "name": "Титул #55",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 827,
+      "achievements": [
+        "ACH_321"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_056",
+    "name": "Титул #56",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 111,
+      "achievements": [
+        "ACH_183"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_057",
+    "name": "Титул #57",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 768,
+      "achievements": [
+        "ACH_275"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_058",
+    "name": "Титул #58",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 178,
+      "achievements": [
+        "ACH_250"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_059",
+    "name": "Титул #59",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 374,
+      "achievements": [
+        "ACH_286"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_060",
+    "name": "Титул #60",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 874,
+      "achievements": [
+        "ACH_225"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_061",
+    "name": "Титул #61",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 71,
+      "achievements": [
+        "ACH_194"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_062",
+    "name": "Титул #62",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 791,
+      "achievements": [
+        "ACH_069"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_063",
+    "name": "Титул #63",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 970,
+      "achievements": [
+        "ACH_021"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_064",
+    "name": "Титул #64",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 773,
+      "achievements": [
+        "ACH_225"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_065",
+    "name": "Титул #65",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 605,
+      "achievements": [
+        "ACH_251"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_066",
+    "name": "Титул #66",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 630,
+      "achievements": [
+        "ACH_096"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_067",
+    "name": "Титул #67",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 381,
+      "achievements": [
+        "ACH_240"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_068",
+    "name": "Титул #68",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 938,
+      "achievements": [
+        "ACH_307"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_069",
+    "name": "Титул #69",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 120,
+      "achievements": [
+        "ACH_272"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_070",
+    "name": "Титул #70",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 510,
+      "achievements": [
+        "ACH_152"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_071",
+    "name": "Титул #71",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 604,
+      "achievements": [
+        "ACH_188"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_072",
+    "name": "Титул #72",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 50,
+      "achievements": [
+        "ACH_327"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_073",
+    "name": "Титул #73",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 801,
+      "achievements": [
+        "ACH_095"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_074",
+    "name": "Титул #74",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 684,
+      "achievements": [
+        "ACH_187"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_075",
+    "name": "Титул #75",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 378,
+      "achievements": [
+        "ACH_033"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_076",
+    "name": "Титул #76",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 244,
+      "achievements": [
+        "ACH_269"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_077",
+    "name": "Титул #77",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 834,
+      "achievements": [
+        "ACH_283"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_078",
+    "name": "Титул #78",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 677,
+      "achievements": [
+        "ACH_145"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_079",
+    "name": "Титул #79",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 469,
+      "achievements": [
+        "ACH_329"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_080",
+    "name": "Титул #80",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 163,
+      "achievements": [
+        "ACH_050"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_081",
+    "name": "Титул #81",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 94,
+      "achievements": [
+        "ACH_067"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_082",
+    "name": "Титул #82",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 944,
+      "achievements": [
+        "ACH_017"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_083",
+    "name": "Титул #83",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 159,
+      "achievements": [
+        "ACH_249"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_084",
+    "name": "Титул #84",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 151,
+      "achievements": [
+        "ACH_017"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_085",
+    "name": "Титул #85",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 723,
+      "achievements": [
+        "ACH_251"
+      ],
+      "landmarks": 2
+    }
+  },
+  {
+    "code": "TITLE_086",
+    "name": "Титул #86",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 100,
+      "achievements": [
+        "ACH_188"
+      ],
+      "landmarks": 1
+    }
+  },
+  {
+    "code": "TITLE_087",
+    "name": "Титул #87",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 670,
+      "achievements": [
+        "ACH_037"
+      ],
+      "landmarks": 0
+    }
+  },
+  {
+    "code": "TITLE_088",
+    "name": "Титул #88",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 993,
+      "achievements": [
+        "ACH_107"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_089",
+    "name": "Титул #89",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 1000,
+      "achievements": [
+        "ACH_041"
+      ],
+      "landmarks": 3
+    }
+  },
+  {
+    "code": "TITLE_090",
+    "name": "Титул #90",
+    "description": "Почётный титул за достижения в развитии города.",
+    "requirements": {
+      "prestige": 870,
+      "achievements": [
+        "ACH_328"
+      ],
+      "landmarks": 0
+    }
+  }
+]

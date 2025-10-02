@@ -1,0 +1,1052 @@
+[
+  {
+    "code": "LM_001",
+    "name": "Ландмарк #1",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_263"
+      ],
+      "research": [
+        "TECH_033"
+      ],
+      "policies": [
+        "POL_057"
+      ]
+    },
+    "effects": {
+      "prestige": 147,
+      "income": 0.25,
+      "happiness": 23
+    }
+  },
+  {
+    "code": "LM_002",
+    "name": "Ландмарк #2",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_129"
+      ],
+      "research": [
+        "TECH_057"
+      ],
+      "policies": [
+        "POL_025"
+      ]
+    },
+    "effects": {
+      "prestige": 154,
+      "income": 0.17,
+      "happiness": 12
+    }
+  },
+  {
+    "code": "LM_003",
+    "name": "Ландмарк #3",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_174"
+      ],
+      "research": [
+        "TECH_059"
+      ],
+      "policies": [
+        "POL_044"
+      ]
+    },
+    "effects": {
+      "prestige": 127,
+      "income": 0.27,
+      "happiness": 5
+    }
+  },
+  {
+    "code": "LM_004",
+    "name": "Ландмарк #4",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_247"
+      ],
+      "research": [
+        "TECH_015"
+      ],
+      "policies": [
+        "POL_017"
+      ]
+    },
+    "effects": {
+      "prestige": 27,
+      "income": 0.15,
+      "happiness": 12
+    }
+  },
+  {
+    "code": "LM_005",
+    "name": "Ландмарк #5",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_347"
+      ],
+      "research": [
+        "TECH_030"
+      ],
+      "policies": [
+        "POL_052"
+      ]
+    },
+    "effects": {
+      "prestige": 90,
+      "income": 0.15,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_006",
+    "name": "Ландмарк #6",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_265"
+      ],
+      "research": [
+        "TECH_069"
+      ],
+      "policies": [
+        "POL_001"
+      ]
+    },
+    "effects": {
+      "prestige": 189,
+      "income": 0.26,
+      "happiness": 12
+    }
+  },
+  {
+    "code": "LM_007",
+    "name": "Ландмарк #7",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_148"
+      ],
+      "research": [
+        "TECH_012"
+      ],
+      "policies": [
+        "POL_026"
+      ]
+    },
+    "effects": {
+      "prestige": 182,
+      "income": 0.24,
+      "happiness": 15
+    }
+  },
+  {
+    "code": "LM_008",
+    "name": "Ландмарк #8",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_039"
+      ],
+      "research": [
+        "TECH_071"
+      ],
+      "policies": [
+        "POL_060"
+      ]
+    },
+    "effects": {
+      "prestige": 55,
+      "income": 0.17,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_009",
+    "name": "Ландмарк #9",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_112"
+      ],
+      "research": [
+        "TECH_074"
+      ],
+      "policies": [
+        "POL_018"
+      ]
+    },
+    "effects": {
+      "prestige": 56,
+      "income": 0.29,
+      "happiness": 11
+    }
+  },
+  {
+    "code": "LM_010",
+    "name": "Ландмарк #10",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_256"
+      ],
+      "research": [
+        "TECH_026"
+      ],
+      "policies": [
+        "POL_016"
+      ]
+    },
+    "effects": {
+      "prestige": 198,
+      "income": 0.11,
+      "happiness": 13
+    }
+  },
+  {
+    "code": "LM_011",
+    "name": "Ландмарк #11",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_106"
+      ],
+      "research": [
+        "TECH_030"
+      ],
+      "policies": [
+        "POL_013"
+      ]
+    },
+    "effects": {
+      "prestige": 73,
+      "income": 0.26,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_012",
+    "name": "Ландмарк #12",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_080"
+      ],
+      "research": [
+        "TECH_014"
+      ],
+      "policies": [
+        "POL_008"
+      ]
+    },
+    "effects": {
+      "prestige": 30,
+      "income": 0.22,
+      "happiness": 20
+    }
+  },
+  {
+    "code": "LM_013",
+    "name": "Ландмарк #13",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_315"
+      ],
+      "research": [
+        "TECH_001"
+      ],
+      "policies": [
+        "POL_049"
+      ]
+    },
+    "effects": {
+      "prestige": 148,
+      "income": 0.29,
+      "happiness": 20
+    }
+  },
+  {
+    "code": "LM_014",
+    "name": "Ландмарк #14",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_191"
+      ],
+      "research": [
+        "TECH_080"
+      ],
+      "policies": [
+        "POL_021"
+      ]
+    },
+    "effects": {
+      "prestige": 136,
+      "income": 0.27,
+      "happiness": 23
+    }
+  },
+  {
+    "code": "LM_015",
+    "name": "Ландмарк #15",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_141"
+      ],
+      "research": [
+        "TECH_063"
+      ],
+      "policies": [
+        "POL_012"
+      ]
+    },
+    "effects": {
+      "prestige": 140,
+      "income": 0.12,
+      "happiness": 12
+    }
+  },
+  {
+    "code": "LM_016",
+    "name": "Ландмарк #16",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_296"
+      ],
+      "research": [
+        "TECH_017"
+      ],
+      "policies": [
+        "POL_004"
+      ]
+    },
+    "effects": {
+      "prestige": 144,
+      "income": 0.25,
+      "happiness": 20
+    }
+  },
+  {
+    "code": "LM_017",
+    "name": "Ландмарк #17",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_277"
+      ],
+      "research": [
+        "TECH_005"
+      ],
+      "policies": [
+        "POL_033"
+      ]
+    },
+    "effects": {
+      "prestige": 98,
+      "income": 0.15,
+      "happiness": 10
+    }
+  },
+  {
+    "code": "LM_018",
+    "name": "Ландмарк #18",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_235"
+      ],
+      "research": [
+        "TECH_016"
+      ],
+      "policies": [
+        "POL_045"
+      ]
+    },
+    "effects": {
+      "prestige": 142,
+      "income": 0.17,
+      "happiness": 5
+    }
+  },
+  {
+    "code": "LM_019",
+    "name": "Ландмарк #19",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_007"
+      ],
+      "research": [
+        "TECH_027"
+      ],
+      "policies": [
+        "POL_025"
+      ]
+    },
+    "effects": {
+      "prestige": 158,
+      "income": 0.08,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_020",
+    "name": "Ландмарк #20",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_314"
+      ],
+      "research": [
+        "TECH_034"
+      ],
+      "policies": [
+        "POL_012"
+      ]
+    },
+    "effects": {
+      "prestige": 150,
+      "income": 0.12,
+      "happiness": 13
+    }
+  },
+  {
+    "code": "LM_021",
+    "name": "Ландмарк #21",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_242"
+      ],
+      "research": [
+        "TECH_079"
+      ],
+      "policies": [
+        "POL_022"
+      ]
+    },
+    "effects": {
+      "prestige": 103,
+      "income": 0.1,
+      "happiness": 18
+    }
+  },
+  {
+    "code": "LM_022",
+    "name": "Ландмарк #22",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_108"
+      ],
+      "research": [
+        "TECH_054"
+      ],
+      "policies": [
+        "POL_045"
+      ]
+    },
+    "effects": {
+      "prestige": 105,
+      "income": 0.14,
+      "happiness": 17
+    }
+  },
+  {
+    "code": "LM_023",
+    "name": "Ландмарк #23",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_144"
+      ],
+      "research": [
+        "TECH_058"
+      ],
+      "policies": [
+        "POL_012"
+      ]
+    },
+    "effects": {
+      "prestige": 156,
+      "income": 0.08,
+      "happiness": 23
+    }
+  },
+  {
+    "code": "LM_024",
+    "name": "Ландмарк #24",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_118"
+      ],
+      "research": [
+        "TECH_013"
+      ],
+      "policies": [
+        "POL_047"
+      ]
+    },
+    "effects": {
+      "prestige": 79,
+      "income": 0.25,
+      "happiness": 22
+    }
+  },
+  {
+    "code": "LM_025",
+    "name": "Ландмарк #25",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_222"
+      ],
+      "research": [
+        "TECH_049"
+      ],
+      "policies": [
+        "POL_013"
+      ]
+    },
+    "effects": {
+      "prestige": 47,
+      "income": 0.25,
+      "happiness": 9
+    }
+  },
+  {
+    "code": "LM_026",
+    "name": "Ландмарк #26",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_243"
+      ],
+      "research": [
+        "TECH_002"
+      ],
+      "policies": [
+        "POL_012"
+      ]
+    },
+    "effects": {
+      "prestige": 117,
+      "income": 0.17,
+      "happiness": 25
+    }
+  },
+  {
+    "code": "LM_027",
+    "name": "Ландмарк #27",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_265"
+      ],
+      "research": [
+        "TECH_069"
+      ],
+      "policies": [
+        "POL_047"
+      ]
+    },
+    "effects": {
+      "prestige": 90,
+      "income": 0.25,
+      "happiness": 14
+    }
+  },
+  {
+    "code": "LM_028",
+    "name": "Ландмарк #28",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_129"
+      ],
+      "research": [
+        "TECH_072"
+      ],
+      "policies": [
+        "POL_055"
+      ]
+    },
+    "effects": {
+      "prestige": 155,
+      "income": 0.06,
+      "happiness": 8
+    }
+  },
+  {
+    "code": "LM_029",
+    "name": "Ландмарк #29",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_084"
+      ],
+      "research": [
+        "TECH_008"
+      ],
+      "policies": [
+        "POL_014"
+      ]
+    },
+    "effects": {
+      "prestige": 75,
+      "income": 0.17,
+      "happiness": 25
+    }
+  },
+  {
+    "code": "LM_030",
+    "name": "Ландмарк #30",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_050"
+      ],
+      "research": [
+        "TECH_058"
+      ],
+      "policies": [
+        "POL_048"
+      ]
+    },
+    "effects": {
+      "prestige": 95,
+      "income": 0.11,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_031",
+    "name": "Ландмарк #31",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_287"
+      ],
+      "research": [
+        "TECH_072"
+      ],
+      "policies": [
+        "POL_060"
+      ]
+    },
+    "effects": {
+      "prestige": 75,
+      "income": 0.14,
+      "happiness": 18
+    }
+  },
+  {
+    "code": "LM_032",
+    "name": "Ландмарк #32",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_063"
+      ],
+      "research": [
+        "TECH_045"
+      ],
+      "policies": [
+        "POL_056"
+      ]
+    },
+    "effects": {
+      "prestige": 183,
+      "income": 0.29,
+      "happiness": 11
+    }
+  },
+  {
+    "code": "LM_033",
+    "name": "Ландмарк #33",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_296"
+      ],
+      "research": [
+        "TECH_074"
+      ],
+      "policies": [
+        "POL_042"
+      ]
+    },
+    "effects": {
+      "prestige": 176,
+      "income": 0.18,
+      "happiness": 14
+    }
+  },
+  {
+    "code": "LM_034",
+    "name": "Ландмарк #34",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_182"
+      ],
+      "research": [
+        "TECH_042"
+      ],
+      "policies": [
+        "POL_044"
+      ]
+    },
+    "effects": {
+      "prestige": 140,
+      "income": 0.17,
+      "happiness": 19
+    }
+  },
+  {
+    "code": "LM_035",
+    "name": "Ландмарк #35",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_041"
+      ],
+      "research": [
+        "TECH_049"
+      ],
+      "policies": [
+        "POL_040"
+      ]
+    },
+    "effects": {
+      "prestige": 83,
+      "income": 0.17,
+      "happiness": 9
+    }
+  },
+  {
+    "code": "LM_036",
+    "name": "Ландмарк #36",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_086"
+      ],
+      "research": [
+        "TECH_044"
+      ],
+      "policies": [
+        "POL_027"
+      ]
+    },
+    "effects": {
+      "prestige": 171,
+      "income": 0.2,
+      "happiness": 17
+    }
+  },
+  {
+    "code": "LM_037",
+    "name": "Ландмарк #37",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_037"
+      ],
+      "research": [
+        "TECH_011"
+      ],
+      "policies": [
+        "POL_011"
+      ]
+    },
+    "effects": {
+      "prestige": 97,
+      "income": 0.11,
+      "happiness": 15
+    }
+  },
+  {
+    "code": "LM_038",
+    "name": "Ландмарк #38",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_335"
+      ],
+      "research": [
+        "TECH_038"
+      ],
+      "policies": [
+        "POL_046"
+      ]
+    },
+    "effects": {
+      "prestige": 78,
+      "income": 0.2,
+      "happiness": 17
+    }
+  },
+  {
+    "code": "LM_039",
+    "name": "Ландмарк #39",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_139"
+      ],
+      "research": [
+        "TECH_057"
+      ],
+      "policies": [
+        "POL_050"
+      ]
+    },
+    "effects": {
+      "prestige": 102,
+      "income": 0.24,
+      "happiness": 21
+    }
+  },
+  {
+    "code": "LM_040",
+    "name": "Ландмарк #40",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_231"
+      ],
+      "research": [
+        "TECH_053"
+      ],
+      "policies": [
+        "POL_011"
+      ]
+    },
+    "effects": {
+      "prestige": 57,
+      "income": 0.26,
+      "happiness": 9
+    }
+  },
+  {
+    "code": "LM_041",
+    "name": "Ландмарк #41",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_121"
+      ],
+      "research": [
+        "TECH_033"
+      ],
+      "policies": [
+        "POL_048"
+      ]
+    },
+    "effects": {
+      "prestige": 189,
+      "income": 0.24,
+      "happiness": 11
+    }
+  },
+  {
+    "code": "LM_042",
+    "name": "Ландмарк #42",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_086"
+      ],
+      "research": [
+        "TECH_051"
+      ],
+      "policies": [
+        "POL_007"
+      ]
+    },
+    "effects": {
+      "prestige": 34,
+      "income": 0.07,
+      "happiness": 20
+    }
+  },
+  {
+    "code": "LM_043",
+    "name": "Ландмарк #43",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_281"
+      ],
+      "research": [
+        "TECH_007"
+      ],
+      "policies": [
+        "POL_002"
+      ]
+    },
+    "effects": {
+      "prestige": 111,
+      "income": 0.18,
+      "happiness": 7
+    }
+  },
+  {
+    "code": "LM_044",
+    "name": "Ландмарк #44",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_054"
+      ],
+      "research": [
+        "TECH_034"
+      ],
+      "policies": [
+        "POL_040"
+      ]
+    },
+    "effects": {
+      "prestige": 49,
+      "income": 0.07,
+      "happiness": 17
+    }
+  },
+  {
+    "code": "LM_045",
+    "name": "Ландмарк #45",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_159"
+      ],
+      "research": [
+        "TECH_030"
+      ],
+      "policies": [
+        "POL_016"
+      ]
+    },
+    "effects": {
+      "prestige": 198,
+      "income": 0.12,
+      "happiness": 25
+    }
+  },
+  {
+    "code": "LM_046",
+    "name": "Ландмарк #46",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_065"
+      ],
+      "research": [
+        "TECH_017"
+      ],
+      "policies": [
+        "POL_034"
+      ]
+    },
+    "effects": {
+      "prestige": 53,
+      "income": 0.06,
+      "happiness": 16
+    }
+  },
+  {
+    "code": "LM_047",
+    "name": "Ландмарк #47",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_167"
+      ],
+      "research": [
+        "TECH_061"
+      ],
+      "policies": [
+        "POL_030"
+      ]
+    },
+    "effects": {
+      "prestige": 148,
+      "income": 0.28,
+      "happiness": 22
+    }
+  },
+  {
+    "code": "LM_048",
+    "name": "Ландмарк #48",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_228"
+      ],
+      "research": [
+        "TECH_018"
+      ],
+      "policies": [
+        "POL_045"
+      ]
+    },
+    "effects": {
+      "prestige": 148,
+      "income": 0.09,
+      "happiness": 24
+    }
+  },
+  {
+    "code": "LM_049",
+    "name": "Ландмарк #49",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_234"
+      ],
+      "research": [
+        "TECH_073"
+      ],
+      "policies": [
+        "POL_028"
+      ]
+    },
+    "effects": {
+      "prestige": 144,
+      "income": 0.21,
+      "happiness": 22
+    }
+  },
+  {
+    "code": "LM_050",
+    "name": "Ландмарк #50",
+    "description": "Уникальный символ города с особыми бонусами.",
+    "requirements": {
+      "achievements": [
+        "ACH_159"
+      ],
+      "research": [
+        "TECH_045"
+      ],
+      "policies": [
+        "POL_031"
+      ]
+    },
+    "effects": {
+      "prestige": 148,
+      "income": 0.11,
+      "happiness": 7
+    }
+  }
+]

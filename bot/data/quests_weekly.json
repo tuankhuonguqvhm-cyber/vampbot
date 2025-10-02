@@ -1,0 +1,1102 @@
+[
+  {
+    "code": "WQ_001",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 377,
+    "reward": {
+      "money": 8738,
+      "mats": 585,
+      "prestige": 117
+    }
+  },
+  {
+    "code": "WQ_002",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 468,
+    "reward": {
+      "money": 5615,
+      "mats": 1618,
+      "prestige": 47
+    }
+  },
+  {
+    "code": "WQ_003",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 317,
+    "reward": {
+      "money": 2838,
+      "mats": 1838,
+      "prestige": 116
+    }
+  },
+  {
+    "code": "WQ_004",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 226,
+    "reward": {
+      "money": 4438,
+      "mats": 566,
+      "prestige": 77
+    }
+  },
+  {
+    "code": "WQ_005",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 234,
+    "reward": {
+      "money": 4855,
+      "mats": 678,
+      "prestige": 76
+    }
+  },
+  {
+    "code": "WQ_006",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 160,
+    "reward": {
+      "money": 8353,
+      "mats": 985,
+      "prestige": 46
+    }
+  },
+  {
+    "code": "WQ_007",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 477,
+    "reward": {
+      "money": 6816,
+      "mats": 1911,
+      "prestige": 64
+    }
+  },
+  {
+    "code": "WQ_008",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 463,
+    "reward": {
+      "money": 6999,
+      "mats": 1795,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_009",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 184,
+    "reward": {
+      "money": 7047,
+      "mats": 785,
+      "prestige": 120
+    }
+  },
+  {
+    "code": "WQ_010",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 205,
+    "reward": {
+      "money": 8664,
+      "mats": 923,
+      "prestige": 27
+    }
+  },
+  {
+    "code": "WQ_011",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 391,
+    "reward": {
+      "money": 4873,
+      "mats": 1590,
+      "prestige": 55
+    }
+  },
+  {
+    "code": "WQ_012",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 405,
+    "reward": {
+      "money": 6413,
+      "mats": 844,
+      "prestige": 61
+    }
+  },
+  {
+    "code": "WQ_013",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 460,
+    "reward": {
+      "money": 4397,
+      "mats": 1092,
+      "prestige": 93
+    }
+  },
+  {
+    "code": "WQ_014",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 236,
+    "reward": {
+      "money": 9802,
+      "mats": 1553,
+      "prestige": 106
+    }
+  },
+  {
+    "code": "WQ_015",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 148,
+    "reward": {
+      "money": 3110,
+      "mats": 1342,
+      "prestige": 27
+    }
+  },
+  {
+    "code": "WQ_016",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 241,
+    "reward": {
+      "money": 9102,
+      "mats": 1843,
+      "prestige": 36
+    }
+  },
+  {
+    "code": "WQ_017",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 459,
+    "reward": {
+      "money": 9094,
+      "mats": 771,
+      "prestige": 51
+    }
+  },
+  {
+    "code": "WQ_018",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 174,
+    "reward": {
+      "money": 7827,
+      "mats": 1159,
+      "prestige": 51
+    }
+  },
+  {
+    "code": "WQ_019",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 489,
+    "reward": {
+      "money": 8910,
+      "mats": 1884,
+      "prestige": 70
+    }
+  },
+  {
+    "code": "WQ_020",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 350,
+    "reward": {
+      "money": 3164,
+      "mats": 1682,
+      "prestige": 100
+    }
+  },
+  {
+    "code": "WQ_021",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 237,
+    "reward": {
+      "money": 7143,
+      "mats": 1348,
+      "prestige": 68
+    }
+  },
+  {
+    "code": "WQ_022",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 331,
+    "reward": {
+      "money": 2618,
+      "mats": 1797,
+      "prestige": 118
+    }
+  },
+  {
+    "code": "WQ_023",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 147,
+    "reward": {
+      "money": 5300,
+      "mats": 1555,
+      "prestige": 115
+    }
+  },
+  {
+    "code": "WQ_024",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 242,
+    "reward": {
+      "money": 7691,
+      "mats": 1255,
+      "prestige": 78
+    }
+  },
+  {
+    "code": "WQ_025",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 349,
+    "reward": {
+      "money": 4681,
+      "mats": 1691,
+      "prestige": 20
+    }
+  },
+  {
+    "code": "WQ_026",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 496,
+    "reward": {
+      "money": 8939,
+      "mats": 2000,
+      "prestige": 31
+    }
+  },
+  {
+    "code": "WQ_027",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 474,
+    "reward": {
+      "money": 9963,
+      "mats": 1438,
+      "prestige": 101
+    }
+  },
+  {
+    "code": "WQ_028",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 440,
+    "reward": {
+      "money": 7712,
+      "mats": 1233,
+      "prestige": 28
+    }
+  },
+  {
+    "code": "WQ_029",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 373,
+    "reward": {
+      "money": 5258,
+      "mats": 946,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_030",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 208,
+    "reward": {
+      "money": 6052,
+      "mats": 1049,
+      "prestige": 61
+    }
+  },
+  {
+    "code": "WQ_031",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 245,
+    "reward": {
+      "money": 4766,
+      "mats": 1620,
+      "prestige": 93
+    }
+  },
+  {
+    "code": "WQ_032",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 166,
+    "reward": {
+      "money": 6637,
+      "mats": 1493,
+      "prestige": 120
+    }
+  },
+  {
+    "code": "WQ_033",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 275,
+    "reward": {
+      "money": 9324,
+      "mats": 1897,
+      "prestige": 117
+    }
+  },
+  {
+    "code": "WQ_034",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 124,
+    "reward": {
+      "money": 2376,
+      "mats": 703,
+      "prestige": 100
+    }
+  },
+  {
+    "code": "WQ_035",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 335,
+    "reward": {
+      "money": 2133,
+      "mats": 754,
+      "prestige": 40
+    }
+  },
+  {
+    "code": "WQ_036",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 325,
+    "reward": {
+      "money": 5739,
+      "mats": 501,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_037",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 203,
+    "reward": {
+      "money": 7640,
+      "mats": 770,
+      "prestige": 103
+    }
+  },
+  {
+    "code": "WQ_038",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 254,
+    "reward": {
+      "money": 3302,
+      "mats": 1061,
+      "prestige": 31
+    }
+  },
+  {
+    "code": "WQ_039",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 435,
+    "reward": {
+      "money": 4952,
+      "mats": 1012,
+      "prestige": 30
+    }
+  },
+  {
+    "code": "WQ_040",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 290,
+    "reward": {
+      "money": 7443,
+      "mats": 1828,
+      "prestige": 41
+    }
+  },
+  {
+    "code": "WQ_041",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 126,
+    "reward": {
+      "money": 5246,
+      "mats": 1781,
+      "prestige": 59
+    }
+  },
+  {
+    "code": "WQ_042",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 471,
+    "reward": {
+      "money": 7729,
+      "mats": 979,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_043",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 435,
+    "reward": {
+      "money": 2747,
+      "mats": 1941,
+      "prestige": 32
+    }
+  },
+  {
+    "code": "WQ_044",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 100,
+    "reward": {
+      "money": 3748,
+      "mats": 1476,
+      "prestige": 29
+    }
+  },
+  {
+    "code": "WQ_045",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 167,
+    "reward": {
+      "money": 6863,
+      "mats": 963,
+      "prestige": 86
+    }
+  },
+  {
+    "code": "WQ_046",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 448,
+    "reward": {
+      "money": 5645,
+      "mats": 519,
+      "prestige": 21
+    }
+  },
+  {
+    "code": "WQ_047",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 456,
+    "reward": {
+      "money": 4814,
+      "mats": 746,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_048",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 455,
+    "reward": {
+      "money": 3082,
+      "mats": 1478,
+      "prestige": 29
+    }
+  },
+  {
+    "code": "WQ_049",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 217,
+    "reward": {
+      "money": 5138,
+      "mats": 682,
+      "prestige": 113
+    }
+  },
+  {
+    "code": "WQ_050",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 152,
+    "reward": {
+      "money": 2845,
+      "mats": 1141,
+      "prestige": 67
+    }
+  },
+  {
+    "code": "WQ_051",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 253,
+    "reward": {
+      "money": 3123,
+      "mats": 1283,
+      "prestige": 119
+    }
+  },
+  {
+    "code": "WQ_052",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 485,
+    "reward": {
+      "money": 9163,
+      "mats": 772,
+      "prestige": 102
+    }
+  },
+  {
+    "code": "WQ_053",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 446,
+    "reward": {
+      "money": 3170,
+      "mats": 640,
+      "prestige": 87
+    }
+  },
+  {
+    "code": "WQ_054",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 388,
+    "reward": {
+      "money": 2069,
+      "mats": 1749,
+      "prestige": 103
+    }
+  },
+  {
+    "code": "WQ_055",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 184,
+    "reward": {
+      "money": 5605,
+      "mats": 1219,
+      "prestige": 112
+    }
+  },
+  {
+    "code": "WQ_056",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 209,
+    "reward": {
+      "money": 7145,
+      "mats": 810,
+      "prestige": 72
+    }
+  },
+  {
+    "code": "WQ_057",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 415,
+    "reward": {
+      "money": 7624,
+      "mats": 1406,
+      "prestige": 47
+    }
+  },
+  {
+    "code": "WQ_058",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 144,
+    "reward": {
+      "money": 9344,
+      "mats": 705,
+      "prestige": 37
+    }
+  },
+  {
+    "code": "WQ_059",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 485,
+    "reward": {
+      "money": 3008,
+      "mats": 1707,
+      "prestige": 113
+    }
+  },
+  {
+    "code": "WQ_060",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 296,
+    "reward": {
+      "money": 4879,
+      "mats": 1379,
+      "prestige": 60
+    }
+  },
+  {
+    "code": "WQ_061",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 171,
+    "reward": {
+      "money": 4029,
+      "mats": 1067,
+      "prestige": 102
+    }
+  },
+  {
+    "code": "WQ_062",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 143,
+    "reward": {
+      "money": 4032,
+      "mats": 1633,
+      "prestige": 96
+    }
+  },
+  {
+    "code": "WQ_063",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 407,
+    "reward": {
+      "money": 7907,
+      "mats": 1744,
+      "prestige": 56
+    }
+  },
+  {
+    "code": "WQ_064",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 498,
+    "reward": {
+      "money": 9710,
+      "mats": 1914,
+      "prestige": 23
+    }
+  },
+  {
+    "code": "WQ_065",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 437,
+    "reward": {
+      "money": 9174,
+      "mats": 1117,
+      "prestige": 46
+    }
+  },
+  {
+    "code": "WQ_066",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 365,
+    "reward": {
+      "money": 6971,
+      "mats": 1543,
+      "prestige": 44
+    }
+  },
+  {
+    "code": "WQ_067",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 482,
+    "reward": {
+      "money": 5209,
+      "mats": 1105,
+      "prestige": 102
+    }
+  },
+  {
+    "code": "WQ_068",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 127,
+    "reward": {
+      "money": 8420,
+      "mats": 990,
+      "prestige": 83
+    }
+  },
+  {
+    "code": "WQ_069",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 297,
+    "reward": {
+      "money": 2923,
+      "mats": 993,
+      "prestige": 83
+    }
+  },
+  {
+    "code": "WQ_070",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 426,
+    "reward": {
+      "money": 6865,
+      "mats": 645,
+      "prestige": 87
+    }
+  },
+  {
+    "code": "WQ_071",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 106,
+    "reward": {
+      "money": 4958,
+      "mats": 1148,
+      "prestige": 36
+    }
+  },
+  {
+    "code": "WQ_072",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 298,
+    "reward": {
+      "money": 9051,
+      "mats": 1664,
+      "prestige": 73
+    }
+  },
+  {
+    "code": "WQ_073",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 287,
+    "reward": {
+      "money": 6475,
+      "mats": 1898,
+      "prestige": 42
+    }
+  },
+  {
+    "code": "WQ_074",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 490,
+    "reward": {
+      "money": 5858,
+      "mats": 649,
+      "prestige": 22
+    }
+  },
+  {
+    "code": "WQ_075",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 400,
+    "reward": {
+      "money": 2553,
+      "mats": 528,
+      "prestige": 53
+    }
+  },
+  {
+    "code": "WQ_076",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 210,
+    "reward": {
+      "money": 2326,
+      "mats": 623,
+      "prestige": 70
+    }
+  },
+  {
+    "code": "WQ_077",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 359,
+    "reward": {
+      "money": 4346,
+      "mats": 1787,
+      "prestige": 111
+    }
+  },
+  {
+    "code": "WQ_078",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 356,
+    "reward": {
+      "money": 8284,
+      "mats": 1350,
+      "prestige": 74
+    }
+  },
+  {
+    "code": "WQ_079",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 459,
+    "reward": {
+      "money": 5295,
+      "mats": 668,
+      "prestige": 101
+    }
+  },
+  {
+    "code": "WQ_080",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 374,
+    "reward": {
+      "money": 6404,
+      "mats": 1761,
+      "prestige": 39
+    }
+  },
+  {
+    "code": "WQ_081",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 242,
+    "reward": {
+      "money": 2684,
+      "mats": 1134,
+      "prestige": 30
+    }
+  },
+  {
+    "code": "WQ_082",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 361,
+    "reward": {
+      "money": 9544,
+      "mats": 916,
+      "prestige": 39
+    }
+  },
+  {
+    "code": "WQ_083",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 374,
+    "reward": {
+      "money": 4676,
+      "mats": 1300,
+      "prestige": 95
+    }
+  },
+  {
+    "code": "WQ_084",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 424,
+    "reward": {
+      "money": 8252,
+      "mats": 1830,
+      "prestige": 107
+    }
+  },
+  {
+    "code": "WQ_085",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 429,
+    "reward": {
+      "money": 2541,
+      "mats": 1135,
+      "prestige": 109
+    }
+  },
+  {
+    "code": "WQ_086",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 323,
+    "reward": {
+      "money": 7979,
+      "mats": 988,
+      "prestige": 27
+    }
+  },
+  {
+    "code": "WQ_087",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 225,
+    "reward": {
+      "money": 2706,
+      "mats": 1389,
+      "prestige": 34
+    }
+  },
+  {
+    "code": "WQ_088",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 332,
+    "reward": {
+      "money": 7015,
+      "mats": 1746,
+      "prestige": 27
+    }
+  },
+  {
+    "code": "WQ_089",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 258,
+    "reward": {
+      "money": 7456,
+      "mats": 1847,
+      "prestige": 114
+    }
+  },
+  {
+    "code": "WQ_090",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 189,
+    "reward": {
+      "money": 2978,
+      "mats": 525,
+      "prestige": 110
+    }
+  },
+  {
+    "code": "WQ_091",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 170,
+    "reward": {
+      "money": 7746,
+      "mats": 523,
+      "prestige": 40
+    }
+  },
+  {
+    "code": "WQ_092",
+    "text": "Достигните выдающихся результатов в категории research на этой неделе.",
+    "kind": "research",
+    "target": 354,
+    "reward": {
+      "money": 9807,
+      "mats": 1210,
+      "prestige": 86
+    }
+  },
+  {
+    "code": "WQ_093",
+    "text": "Достигните выдающихся результатов в категории policy на этой неделе.",
+    "kind": "policy",
+    "target": 364,
+    "reward": {
+      "money": 8414,
+      "mats": 1976,
+      "prestige": 53
+    }
+  },
+  {
+    "code": "WQ_094",
+    "text": "Достигните выдающихся результатов в категории duel на этой неделе.",
+    "kind": "duel",
+    "target": 185,
+    "reward": {
+      "money": 5046,
+      "mats": 759,
+      "prestige": 115
+    }
+  },
+  {
+    "code": "WQ_095",
+    "text": "Достигните выдающихся результатов в категории trade на этой неделе.",
+    "kind": "trade",
+    "target": 499,
+    "reward": {
+      "money": 9155,
+      "mats": 1050,
+      "prestige": 113
+    }
+  },
+  {
+    "code": "WQ_096",
+    "text": "Достигните выдающихся результатов в категории event на этой неделе.",
+    "kind": "event",
+    "target": 160,
+    "reward": {
+      "money": 8319,
+      "mats": 560,
+      "prestige": 62
+    }
+  },
+  {
+    "code": "WQ_097",
+    "text": "Достигните выдающихся результатов в категории clan на этой неделе.",
+    "kind": "clan",
+    "target": 319,
+    "reward": {
+      "money": 4228,
+      "mats": 1572,
+      "prestige": 28
+    }
+  },
+  {
+    "code": "WQ_098",
+    "text": "Достигните выдающихся результатов в категории happiness на этой неделе.",
+    "kind": "happiness",
+    "target": 234,
+    "reward": {
+      "money": 7835,
+      "mats": 1680,
+      "prestige": 100
+    }
+  },
+  {
+    "code": "WQ_099",
+    "text": "Достигните выдающихся результатов в категории collect на этой неделе.",
+    "kind": "collect",
+    "target": 139,
+    "reward": {
+      "money": 6064,
+      "mats": 1432,
+      "prestige": 85
+    }
+  },
+  {
+    "code": "WQ_100",
+    "text": "Достигните выдающихся результатов в категории build на этой неделе.",
+    "kind": "build",
+    "target": 284,
+    "reward": {
+      "money": 2454,
+      "mats": 1523,
+      "prestige": 92
+    }
+  }
+]
