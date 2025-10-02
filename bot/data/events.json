@@ -1,0 +1,962 @@
+[
+  {
+    "code": "EVT_001",
+    "name": "Событие #1",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 167,
+    "effects": {
+      "income_bonus": 0.18,
+      "happiness": -12,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_002",
+    "name": "Событие #2",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 34,
+    "effects": {
+      "income_bonus": 0.11,
+      "happiness": 19,
+      "energy_regen": -2
+    }
+  },
+  {
+    "code": "EVT_003",
+    "name": "Событие #3",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 80,
+    "effects": {
+      "income_bonus": -0.21,
+      "happiness": -14,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_004",
+    "name": "Событие #4",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 58,
+    "effects": {
+      "income_bonus": 0.19,
+      "happiness": 29,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_005",
+    "name": "Событие #5",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 141,
+    "effects": {
+      "income_bonus": 0.48,
+      "happiness": 2,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_006",
+    "name": "Событие #6",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 83,
+    "effects": {
+      "income_bonus": -0.17,
+      "happiness": 15,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_007",
+    "name": "Событие #7",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 61,
+    "effects": {
+      "income_bonus": 0.25,
+      "happiness": 10,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_008",
+    "name": "Событие #8",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 68,
+    "effects": {
+      "income_bonus": -0.3,
+      "happiness": 22,
+      "energy_regen": -3
+    }
+  },
+  {
+    "code": "EVT_009",
+    "name": "Событие #9",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 36,
+    "effects": {
+      "income_bonus": 0.37,
+      "happiness": 22,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_010",
+    "name": "Событие #10",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 46,
+    "effects": {
+      "income_bonus": 0.46,
+      "happiness": 29,
+      "energy_regen": -3
+    }
+  },
+  {
+    "code": "EVT_011",
+    "name": "Событие #11",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 33,
+    "effects": {
+      "income_bonus": 0.42,
+      "happiness": 21,
+      "energy_regen": 2
+    }
+  },
+  {
+    "code": "EVT_012",
+    "name": "Событие #12",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 124,
+    "effects": {
+      "income_bonus": 0.49,
+      "happiness": -2,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_013",
+    "name": "Событие #13",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 126,
+    "effects": {
+      "income_bonus": -0.26,
+      "happiness": -9,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_014",
+    "name": "Событие #14",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 82,
+    "effects": {
+      "income_bonus": -0.01,
+      "happiness": 23,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_015",
+    "name": "Событие #15",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 117,
+    "effects": {
+      "income_bonus": 0.29,
+      "happiness": -14,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_016",
+    "name": "Событие #16",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 10,
+    "effects": {
+      "income_bonus": 0.38,
+      "happiness": 22,
+      "energy_regen": 0
+    }
+  },
+  {
+    "code": "EVT_017",
+    "name": "Событие #17",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 92,
+    "effects": {
+      "income_bonus": -0.01,
+      "happiness": 8,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_018",
+    "name": "Событие #18",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 31,
+    "effects": {
+      "income_bonus": -0.0,
+      "happiness": 1,
+      "energy_regen": 0
+    }
+  },
+  {
+    "code": "EVT_019",
+    "name": "Событие #19",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 37,
+    "effects": {
+      "income_bonus": 0.02,
+      "happiness": 9,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_020",
+    "name": "Событие #20",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 106,
+    "effects": {
+      "income_bonus": 0.25,
+      "happiness": 10,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_021",
+    "name": "Событие #21",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 50,
+    "effects": {
+      "income_bonus": -0.21,
+      "happiness": 24,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_022",
+    "name": "Событие #22",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 48,
+    "effects": {
+      "income_bonus": -0.22,
+      "happiness": 17,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_023",
+    "name": "Событие #23",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 153,
+    "effects": {
+      "income_bonus": 0.24,
+      "happiness": -9,
+      "energy_regen": 7
+    }
+  },
+  {
+    "code": "EVT_024",
+    "name": "Событие #24",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 99,
+    "effects": {
+      "income_bonus": 0.19,
+      "happiness": 23,
+      "energy_regen": -1
+    }
+  },
+  {
+    "code": "EVT_025",
+    "name": "Событие #25",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 131,
+    "effects": {
+      "income_bonus": 0.44,
+      "happiness": -13,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_026",
+    "name": "Событие #26",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 120,
+    "effects": {
+      "income_bonus": -0.26,
+      "happiness": -4,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_027",
+    "name": "Событие #27",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 11,
+    "effects": {
+      "income_bonus": 0.26,
+      "happiness": 23,
+      "energy_regen": 2
+    }
+  },
+  {
+    "code": "EVT_028",
+    "name": "Событие #28",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 94,
+    "effects": {
+      "income_bonus": 0.12,
+      "happiness": 24,
+      "energy_regen": -2
+    }
+  },
+  {
+    "code": "EVT_029",
+    "name": "Событие #29",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 118,
+    "effects": {
+      "income_bonus": 0.23,
+      "happiness": -5,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_030",
+    "name": "Событие #30",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 96,
+    "effects": {
+      "income_bonus": 0.23,
+      "happiness": 21,
+      "energy_regen": 7
+    }
+  },
+  {
+    "code": "EVT_031",
+    "name": "Событие #31",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 46,
+    "effects": {
+      "income_bonus": 0.37,
+      "happiness": 15,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_032",
+    "name": "Событие #32",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 10,
+    "effects": {
+      "income_bonus": 0.21,
+      "happiness": -10,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_033",
+    "name": "Событие #33",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 134,
+    "effects": {
+      "income_bonus": 0.4,
+      "happiness": -16,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_034",
+    "name": "Событие #34",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 90,
+    "effects": {
+      "income_bonus": -0.11,
+      "happiness": -3,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_035",
+    "name": "Событие #35",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 137,
+    "effects": {
+      "income_bonus": -0.12,
+      "happiness": 21,
+      "energy_regen": 7
+    }
+  },
+  {
+    "code": "EVT_036",
+    "name": "Событие #36",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 111,
+    "effects": {
+      "income_bonus": 0.35,
+      "happiness": -15,
+      "energy_regen": 9
+    }
+  },
+  {
+    "code": "EVT_037",
+    "name": "Событие #37",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 121,
+    "effects": {
+      "income_bonus": 0.34,
+      "happiness": 8,
+      "energy_regen": -3
+    }
+  },
+  {
+    "code": "EVT_038",
+    "name": "Событие #38",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 135,
+    "effects": {
+      "income_bonus": 0.06,
+      "happiness": -13,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_039",
+    "name": "Событие #39",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 12,
+    "effects": {
+      "income_bonus": -0.22,
+      "happiness": 6,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_040",
+    "name": "Событие #40",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 150,
+    "effects": {
+      "income_bonus": 0.14,
+      "happiness": -15,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_041",
+    "name": "Событие #41",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 138,
+    "effects": {
+      "income_bonus": 0.15,
+      "happiness": 21,
+      "energy_regen": 9
+    }
+  },
+  {
+    "code": "EVT_042",
+    "name": "Событие #42",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 95,
+    "effects": {
+      "income_bonus": -0.01,
+      "happiness": -17,
+      "energy_regen": 2
+    }
+  },
+  {
+    "code": "EVT_043",
+    "name": "Событие #43",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 124,
+    "effects": {
+      "income_bonus": -0.03,
+      "happiness": 29,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_044",
+    "name": "Событие #44",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 101,
+    "effects": {
+      "income_bonus": 0.27,
+      "happiness": -13,
+      "energy_regen": -2
+    }
+  },
+  {
+    "code": "EVT_045",
+    "name": "Событие #45",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 64,
+    "effects": {
+      "income_bonus": -0.3,
+      "happiness": 2,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_046",
+    "name": "Событие #46",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 148,
+    "effects": {
+      "income_bonus": 0.12,
+      "happiness": 24,
+      "energy_regen": -2
+    }
+  },
+  {
+    "code": "EVT_047",
+    "name": "Событие #47",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 19,
+    "effects": {
+      "income_bonus": 0.42,
+      "happiness": 11,
+      "energy_regen": -1
+    }
+  },
+  {
+    "code": "EVT_048",
+    "name": "Событие #48",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 112,
+    "effects": {
+      "income_bonus": -0.21,
+      "happiness": 19,
+      "energy_regen": 1
+    }
+  },
+  {
+    "code": "EVT_049",
+    "name": "Событие #49",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 56,
+    "effects": {
+      "income_bonus": -0.2,
+      "happiness": 5,
+      "energy_regen": 1
+    }
+  },
+  {
+    "code": "EVT_050",
+    "name": "Событие #50",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 125,
+    "effects": {
+      "income_bonus": 0.36,
+      "happiness": -8,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_051",
+    "name": "Событие #51",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 35,
+    "effects": {
+      "income_bonus": 0.31,
+      "happiness": -18,
+      "energy_regen": -2
+    }
+  },
+  {
+    "code": "EVT_052",
+    "name": "Событие #52",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 123,
+    "effects": {
+      "income_bonus": 0.07,
+      "happiness": 17,
+      "energy_regen": -1
+    }
+  },
+  {
+    "code": "EVT_053",
+    "name": "Событие #53",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 135,
+    "effects": {
+      "income_bonus": -0.3,
+      "happiness": 27,
+      "energy_regen": -4
+    }
+  },
+  {
+    "code": "EVT_054",
+    "name": "Событие #54",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 149,
+    "effects": {
+      "income_bonus": 0.45,
+      "happiness": 17,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_055",
+    "name": "Событие #55",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 138,
+    "effects": {
+      "income_bonus": 0.32,
+      "happiness": -9,
+      "energy_regen": 0
+    }
+  },
+  {
+    "code": "EVT_056",
+    "name": "Событие #56",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 40,
+    "effects": {
+      "income_bonus": -0.22,
+      "happiness": 22,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_057",
+    "name": "Событие #57",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 137,
+    "effects": {
+      "income_bonus": 0.41,
+      "happiness": 6,
+      "energy_regen": 2
+    }
+  },
+  {
+    "code": "EVT_058",
+    "name": "Событие #58",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 78,
+    "effects": {
+      "income_bonus": 0.02,
+      "happiness": 1,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_059",
+    "name": "Событие #59",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 123,
+    "effects": {
+      "income_bonus": 0.34,
+      "happiness": -12,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_060",
+    "name": "Событие #60",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 162,
+    "effects": {
+      "income_bonus": 0.26,
+      "happiness": 27,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_061",
+    "name": "Событие #61",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 148,
+    "effects": {
+      "income_bonus": 0.39,
+      "happiness": 25,
+      "energy_regen": 1
+    }
+  },
+  {
+    "code": "EVT_062",
+    "name": "Событие #62",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 59,
+    "effects": {
+      "income_bonus": -0.13,
+      "happiness": 25,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_063",
+    "name": "Событие #63",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 96,
+    "effects": {
+      "income_bonus": 0.44,
+      "happiness": -12,
+      "energy_regen": 0
+    }
+  },
+  {
+    "code": "EVT_064",
+    "name": "Событие #64",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 136,
+    "effects": {
+      "income_bonus": 0.13,
+      "happiness": 20,
+      "energy_regen": 5
+    }
+  },
+  {
+    "code": "EVT_065",
+    "name": "Событие #65",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 37,
+    "effects": {
+      "income_bonus": 0.31,
+      "happiness": 15,
+      "energy_regen": 10
+    }
+  },
+  {
+    "code": "EVT_066",
+    "name": "Событие #66",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 157,
+    "effects": {
+      "income_bonus": 0.16,
+      "happiness": 22,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_067",
+    "name": "Событие #67",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 144,
+    "effects": {
+      "income_bonus": -0.07,
+      "happiness": 7,
+      "energy_regen": -5
+    }
+  },
+  {
+    "code": "EVT_068",
+    "name": "Событие #68",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 141,
+    "effects": {
+      "income_bonus": -0.21,
+      "happiness": 4,
+      "energy_regen": -1
+    }
+  },
+  {
+    "code": "EVT_069",
+    "name": "Событие #69",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 21,
+    "effects": {
+      "income_bonus": 0.24,
+      "happiness": -8,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_070",
+    "name": "Событие #70",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 49,
+    "effects": {
+      "income_bonus": 0.49,
+      "happiness": 23,
+      "energy_regen": 3
+    }
+  },
+  {
+    "code": "EVT_071",
+    "name": "Событие #71",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 45,
+    "effects": {
+      "income_bonus": 0.37,
+      "happiness": 24,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_072",
+    "name": "Событие #72",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 60,
+    "effects": {
+      "income_bonus": 0.3,
+      "happiness": -18,
+      "energy_regen": 6
+    }
+  },
+  {
+    "code": "EVT_073",
+    "name": "Событие #73",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 123,
+    "effects": {
+      "income_bonus": -0.22,
+      "happiness": 23,
+      "energy_regen": 2
+    }
+  },
+  {
+    "code": "EVT_074",
+    "name": "Событие #74",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 151,
+    "effects": {
+      "income_bonus": 0.01,
+      "happiness": 12,
+      "energy_regen": 4
+    }
+  },
+  {
+    "code": "EVT_075",
+    "name": "Событие #75",
+    "type": "festival",
+    "description": "Уникальное событие типа festival, влияющее на экономику города.",
+    "duration_hours": 20,
+    "effects": {
+      "income_bonus": 0.44,
+      "happiness": 4,
+      "energy_regen": 8
+    }
+  },
+  {
+    "code": "EVT_076",
+    "name": "Событие #76",
+    "type": "seasonal",
+    "description": "Уникальное событие типа seasonal, влияющее на экономику города.",
+    "duration_hours": 88,
+    "effects": {
+      "income_bonus": 0.47,
+      "happiness": -17,
+      "energy_regen": -5
+    }
+  },
+  {
+    "code": "EVT_077",
+    "name": "Событие #77",
+    "type": "market",
+    "description": "Уникальное событие типа market, влияющее на экономику города.",
+    "duration_hours": 72,
+    "effects": {
+      "income_bonus": -0.14,
+      "happiness": 29,
+      "energy_regen": 9
+    }
+  },
+  {
+    "code": "EVT_078",
+    "name": "Событие #78",
+    "type": "boost",
+    "description": "Уникальное событие типа boost, влияющее на экономику города.",
+    "duration_hours": 65,
+    "effects": {
+      "income_bonus": 0.43,
+      "happiness": 25,
+      "energy_regen": 6
+    }
+  },
+  {
+    "code": "EVT_079",
+    "name": "Событие #79",
+    "type": "discount",
+    "description": "Уникальное событие типа discount, влияющее на экономику города.",
+    "duration_hours": 158,
+    "effects": {
+      "income_bonus": 0.14,
+      "happiness": 18,
+      "energy_regen": 1
+    }
+  },
+  {
+    "code": "EVT_080",
+    "name": "Событие #80",
+    "type": "disaster",
+    "description": "Уникальное событие типа disaster, влияющее на экономику города.",
+    "duration_hours": 57,
+    "effects": {
+      "income_bonus": -0.06,
+      "happiness": -9,
+      "energy_regen": -3
+    }
+  }
+]

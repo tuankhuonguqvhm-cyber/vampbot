@@ -1,0 +1,2862 @@
+[
+  {
+    "code": "DQ_001",
+    "text": "Выполните действие типа build 120 раз сегодня.",
+    "kind": "build",
+    "target": 120,
+    "reward": {
+      "money": 882,
+      "mats": 80,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_002",
+    "text": "Выполните действие типа research 35 раз сегодня.",
+    "kind": "research",
+    "target": 35,
+    "reward": {
+      "money": 231,
+      "mats": 22,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_003",
+    "text": "Выполните действие типа policy 100 раз сегодня.",
+    "kind": "policy",
+    "target": 100,
+    "reward": {
+      "money": 913,
+      "mats": 53,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_004",
+    "text": "Выполните действие типа duel 98 раз сегодня.",
+    "kind": "duel",
+    "target": 98,
+    "reward": {
+      "money": 873,
+      "mats": 28,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_005",
+    "text": "Выполните действие типа trade 135 раз сегодня.",
+    "kind": "trade",
+    "target": 135,
+    "reward": {
+      "money": 511,
+      "mats": 74,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_006",
+    "text": "Выполните действие типа event 16 раз сегодня.",
+    "kind": "event",
+    "target": 16,
+    "reward": {
+      "money": 139,
+      "mats": 27,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_007",
+    "text": "Выполните действие типа clan 126 раз сегодня.",
+    "kind": "clan",
+    "target": 126,
+    "reward": {
+      "money": 631,
+      "mats": 68,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_008",
+    "text": "Выполните действие типа happiness 136 раз сегодня.",
+    "kind": "happiness",
+    "target": 136,
+    "reward": {
+      "money": 243,
+      "mats": 51,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_009",
+    "text": "Выполните действие типа collect 86 раз сегодня.",
+    "kind": "collect",
+    "target": 86,
+    "reward": {
+      "money": 266,
+      "mats": 60,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_010",
+    "text": "Выполните действие типа build 81 раз сегодня.",
+    "kind": "build",
+    "target": 81,
+    "reward": {
+      "money": 707,
+      "mats": 53,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_011",
+    "text": "Выполните действие типа research 135 раз сегодня.",
+    "kind": "research",
+    "target": 135,
+    "reward": {
+      "money": 645,
+      "mats": 72,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_012",
+    "text": "Выполните действие типа policy 81 раз сегодня.",
+    "kind": "policy",
+    "target": 81,
+    "reward": {
+      "money": 586,
+      "mats": 12,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_013",
+    "text": "Выполните действие типа duel 89 раз сегодня.",
+    "kind": "duel",
+    "target": 89,
+    "reward": {
+      "money": 789,
+      "mats": 24,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_014",
+    "text": "Выполните действие типа trade 83 раз сегодня.",
+    "kind": "trade",
+    "target": 83,
+    "reward": {
+      "money": 915,
+      "mats": 98,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_015",
+    "text": "Выполните действие типа event 126 раз сегодня.",
+    "kind": "event",
+    "target": 126,
+    "reward": {
+      "money": 371,
+      "mats": 93,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_016",
+    "text": "Выполните действие типа clan 63 раз сегодня.",
+    "kind": "clan",
+    "target": 63,
+    "reward": {
+      "money": 838,
+      "mats": 16,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_017",
+    "text": "Выполните действие типа happiness 127 раз сегодня.",
+    "kind": "happiness",
+    "target": 127,
+    "reward": {
+      "money": 274,
+      "mats": 77,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_018",
+    "text": "Выполните действие типа collect 102 раз сегодня.",
+    "kind": "collect",
+    "target": 102,
+    "reward": {
+      "money": 251,
+      "mats": 97,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_019",
+    "text": "Выполните действие типа build 13 раз сегодня.",
+    "kind": "build",
+    "target": 13,
+    "reward": {
+      "money": 686,
+      "mats": 99,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_020",
+    "text": "Выполните действие типа research 53 раз сегодня.",
+    "kind": "research",
+    "target": 53,
+    "reward": {
+      "money": 119,
+      "mats": 66,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_021",
+    "text": "Выполните действие типа policy 112 раз сегодня.",
+    "kind": "policy",
+    "target": 112,
+    "reward": {
+      "money": 255,
+      "mats": 62,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_022",
+    "text": "Выполните действие типа duel 110 раз сегодня.",
+    "kind": "duel",
+    "target": 110,
+    "reward": {
+      "money": 613,
+      "mats": 88,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_023",
+    "text": "Выполните действие типа trade 20 раз сегодня.",
+    "kind": "trade",
+    "target": 20,
+    "reward": {
+      "money": 822,
+      "mats": 27,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_024",
+    "text": "Выполните действие типа event 58 раз сегодня.",
+    "kind": "event",
+    "target": 58,
+    "reward": {
+      "money": 674,
+      "mats": 51,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_025",
+    "text": "Выполните действие типа clan 139 раз сегодня.",
+    "kind": "clan",
+    "target": 139,
+    "reward": {
+      "money": 485,
+      "mats": 50,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_026",
+    "text": "Выполните действие типа happiness 122 раз сегодня.",
+    "kind": "happiness",
+    "target": 122,
+    "reward": {
+      "money": 645,
+      "mats": 53,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_027",
+    "text": "Выполните действие типа collect 95 раз сегодня.",
+    "kind": "collect",
+    "target": 95,
+    "reward": {
+      "money": 792,
+      "mats": 97,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_028",
+    "text": "Выполните действие типа build 128 раз сегодня.",
+    "kind": "build",
+    "target": 128,
+    "reward": {
+      "money": 296,
+      "mats": 41,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_029",
+    "text": "Выполните действие типа research 147 раз сегодня.",
+    "kind": "research",
+    "target": 147,
+    "reward": {
+      "money": 405,
+      "mats": 38,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_030",
+    "text": "Выполните действие типа policy 78 раз сегодня.",
+    "kind": "policy",
+    "target": 78,
+    "reward": {
+      "money": 821,
+      "mats": 36,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_031",
+    "text": "Выполните действие типа duel 86 раз сегодня.",
+    "kind": "duel",
+    "target": 86,
+    "reward": {
+      "money": 591,
+      "mats": 54,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_032",
+    "text": "Выполните действие типа trade 75 раз сегодня.",
+    "kind": "trade",
+    "target": 75,
+    "reward": {
+      "money": 394,
+      "mats": 25,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_033",
+    "text": "Выполните действие типа event 144 раз сегодня.",
+    "kind": "event",
+    "target": 144,
+    "reward": {
+      "money": 488,
+      "mats": 60,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_034",
+    "text": "Выполните действие типа clan 42 раз сегодня.",
+    "kind": "clan",
+    "target": 42,
+    "reward": {
+      "money": 397,
+      "mats": 15,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_035",
+    "text": "Выполните действие типа happiness 25 раз сегодня.",
+    "kind": "happiness",
+    "target": 25,
+    "reward": {
+      "money": 454,
+      "mats": 66,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_036",
+    "text": "Выполните действие типа collect 127 раз сегодня.",
+    "kind": "collect",
+    "target": 127,
+    "reward": {
+      "money": 319,
+      "mats": 35,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_037",
+    "text": "Выполните действие типа build 74 раз сегодня.",
+    "kind": "build",
+    "target": 74,
+    "reward": {
+      "money": 675,
+      "mats": 99,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_038",
+    "text": "Выполните действие типа research 40 раз сегодня.",
+    "kind": "research",
+    "target": 40,
+    "reward": {
+      "money": 211,
+      "mats": 88,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_039",
+    "text": "Выполните действие типа policy 66 раз сегодня.",
+    "kind": "policy",
+    "target": 66,
+    "reward": {
+      "money": 348,
+      "mats": 16,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_040",
+    "text": "Выполните действие типа duel 62 раз сегодня.",
+    "kind": "duel",
+    "target": 62,
+    "reward": {
+      "money": 753,
+      "mats": 39,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_041",
+    "text": "Выполните действие типа trade 30 раз сегодня.",
+    "kind": "trade",
+    "target": 30,
+    "reward": {
+      "money": 523,
+      "mats": 52,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_042",
+    "text": "Выполните действие типа event 30 раз сегодня.",
+    "kind": "event",
+    "target": 30,
+    "reward": {
+      "money": 797,
+      "mats": 27,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_043",
+    "text": "Выполните действие типа clan 145 раз сегодня.",
+    "kind": "clan",
+    "target": 145,
+    "reward": {
+      "money": 261,
+      "mats": 62,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_044",
+    "text": "Выполните действие типа happiness 127 раз сегодня.",
+    "kind": "happiness",
+    "target": 127,
+    "reward": {
+      "money": 766,
+      "mats": 35,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_045",
+    "text": "Выполните действие типа collect 87 раз сегодня.",
+    "kind": "collect",
+    "target": 87,
+    "reward": {
+      "money": 392,
+      "mats": 92,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_046",
+    "text": "Выполните действие типа build 27 раз сегодня.",
+    "kind": "build",
+    "target": 27,
+    "reward": {
+      "money": 767,
+      "mats": 83,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_047",
+    "text": "Выполните действие типа research 141 раз сегодня.",
+    "kind": "research",
+    "target": 141,
+    "reward": {
+      "money": 856,
+      "mats": 14,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_048",
+    "text": "Выполните действие типа policy 111 раз сегодня.",
+    "kind": "policy",
+    "target": 111,
+    "reward": {
+      "money": 957,
+      "mats": 32,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_049",
+    "text": "Выполните действие типа duel 106 раз сегодня.",
+    "kind": "duel",
+    "target": 106,
+    "reward": {
+      "money": 906,
+      "mats": 73,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_050",
+    "text": "Выполните действие типа trade 79 раз сегодня.",
+    "kind": "trade",
+    "target": 79,
+    "reward": {
+      "money": 997,
+      "mats": 14,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_051",
+    "text": "Выполните действие типа event 81 раз сегодня.",
+    "kind": "event",
+    "target": 81,
+    "reward": {
+      "money": 681,
+      "mats": 87,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_052",
+    "text": "Выполните действие типа clan 90 раз сегодня.",
+    "kind": "clan",
+    "target": 90,
+    "reward": {
+      "money": 391,
+      "mats": 68,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_053",
+    "text": "Выполните действие типа happiness 139 раз сегодня.",
+    "kind": "happiness",
+    "target": 139,
+    "reward": {
+      "money": 605,
+      "mats": 27,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_054",
+    "text": "Выполните действие типа collect 124 раз сегодня.",
+    "kind": "collect",
+    "target": 124,
+    "reward": {
+      "money": 379,
+      "mats": 34,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_055",
+    "text": "Выполните действие типа build 89 раз сегодня.",
+    "kind": "build",
+    "target": 89,
+    "reward": {
+      "money": 266,
+      "mats": 68,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_056",
+    "text": "Выполните действие типа research 52 раз сегодня.",
+    "kind": "research",
+    "target": 52,
+    "reward": {
+      "money": 114,
+      "mats": 53,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_057",
+    "text": "Выполните действие типа policy 150 раз сегодня.",
+    "kind": "policy",
+    "target": 150,
+    "reward": {
+      "money": 790,
+      "mats": 34,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_058",
+    "text": "Выполните действие типа duel 108 раз сегодня.",
+    "kind": "duel",
+    "target": 108,
+    "reward": {
+      "money": 946,
+      "mats": 64,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_059",
+    "text": "Выполните действие типа trade 88 раз сегодня.",
+    "kind": "trade",
+    "target": 88,
+    "reward": {
+      "money": 188,
+      "mats": 61,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_060",
+    "text": "Выполните действие типа event 52 раз сегодня.",
+    "kind": "event",
+    "target": 52,
+    "reward": {
+      "money": 243,
+      "mats": 71,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_061",
+    "text": "Выполните действие типа clan 68 раз сегодня.",
+    "kind": "clan",
+    "target": 68,
+    "reward": {
+      "money": 106,
+      "mats": 43,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_062",
+    "text": "Выполните действие типа happiness 65 раз сегодня.",
+    "kind": "happiness",
+    "target": 65,
+    "reward": {
+      "money": 557,
+      "mats": 44,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_063",
+    "text": "Выполните действие типа collect 82 раз сегодня.",
+    "kind": "collect",
+    "target": 82,
+    "reward": {
+      "money": 696,
+      "mats": 83,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_064",
+    "text": "Выполните действие типа build 71 раз сегодня.",
+    "kind": "build",
+    "target": 71,
+    "reward": {
+      "money": 769,
+      "mats": 56,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_065",
+    "text": "Выполните действие типа research 20 раз сегодня.",
+    "kind": "research",
+    "target": 20,
+    "reward": {
+      "money": 783,
+      "mats": 25,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_066",
+    "text": "Выполните действие типа policy 83 раз сегодня.",
+    "kind": "policy",
+    "target": 83,
+    "reward": {
+      "money": 263,
+      "mats": 61,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_067",
+    "text": "Выполните действие типа duel 84 раз сегодня.",
+    "kind": "duel",
+    "target": 84,
+    "reward": {
+      "money": 806,
+      "mats": 25,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_068",
+    "text": "Выполните действие типа trade 99 раз сегодня.",
+    "kind": "trade",
+    "target": 99,
+    "reward": {
+      "money": 729,
+      "mats": 38,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_069",
+    "text": "Выполните действие типа event 39 раз сегодня.",
+    "kind": "event",
+    "target": 39,
+    "reward": {
+      "money": 589,
+      "mats": 29,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_070",
+    "text": "Выполните действие типа clan 100 раз сегодня.",
+    "kind": "clan",
+    "target": 100,
+    "reward": {
+      "money": 525,
+      "mats": 99,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_071",
+    "text": "Выполните действие типа happiness 125 раз сегодня.",
+    "kind": "happiness",
+    "target": 125,
+    "reward": {
+      "money": 875,
+      "mats": 78,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_072",
+    "text": "Выполните действие типа collect 68 раз сегодня.",
+    "kind": "collect",
+    "target": 68,
+    "reward": {
+      "money": 796,
+      "mats": 86,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_073",
+    "text": "Выполните действие типа build 139 раз сегодня.",
+    "kind": "build",
+    "target": 139,
+    "reward": {
+      "money": 557,
+      "mats": 77,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_074",
+    "text": "Выполните действие типа research 24 раз сегодня.",
+    "kind": "research",
+    "target": 24,
+    "reward": {
+      "money": 677,
+      "mats": 24,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_075",
+    "text": "Выполните действие типа policy 145 раз сегодня.",
+    "kind": "policy",
+    "target": 145,
+    "reward": {
+      "money": 617,
+      "mats": 35,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_076",
+    "text": "Выполните действие типа duel 142 раз сегодня.",
+    "kind": "duel",
+    "target": 142,
+    "reward": {
+      "money": 253,
+      "mats": 31,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_077",
+    "text": "Выполните действие типа trade 138 раз сегодня.",
+    "kind": "trade",
+    "target": 138,
+    "reward": {
+      "money": 552,
+      "mats": 24,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_078",
+    "text": "Выполните действие типа event 130 раз сегодня.",
+    "kind": "event",
+    "target": 130,
+    "reward": {
+      "money": 193,
+      "mats": 75,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_079",
+    "text": "Выполните действие типа clan 19 раз сегодня.",
+    "kind": "clan",
+    "target": 19,
+    "reward": {
+      "money": 564,
+      "mats": 26,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_080",
+    "text": "Выполните действие типа happiness 111 раз сегодня.",
+    "kind": "happiness",
+    "target": 111,
+    "reward": {
+      "money": 567,
+      "mats": 82,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_081",
+    "text": "Выполните действие типа collect 148 раз сегодня.",
+    "kind": "collect",
+    "target": 148,
+    "reward": {
+      "money": 573,
+      "mats": 96,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_082",
+    "text": "Выполните действие типа build 10 раз сегодня.",
+    "kind": "build",
+    "target": 10,
+    "reward": {
+      "money": 505,
+      "mats": 42,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_083",
+    "text": "Выполните действие типа research 60 раз сегодня.",
+    "kind": "research",
+    "target": 60,
+    "reward": {
+      "money": 692,
+      "mats": 19,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_084",
+    "text": "Выполните действие типа policy 113 раз сегодня.",
+    "kind": "policy",
+    "target": 113,
+    "reward": {
+      "money": 452,
+      "mats": 99,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_085",
+    "text": "Выполните действие типа duel 143 раз сегодня.",
+    "kind": "duel",
+    "target": 143,
+    "reward": {
+      "money": 161,
+      "mats": 18,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_086",
+    "text": "Выполните действие типа trade 13 раз сегодня.",
+    "kind": "trade",
+    "target": 13,
+    "reward": {
+      "money": 393,
+      "mats": 62,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_087",
+    "text": "Выполните действие типа event 39 раз сегодня.",
+    "kind": "event",
+    "target": 39,
+    "reward": {
+      "money": 884,
+      "mats": 92,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_088",
+    "text": "Выполните действие типа clan 100 раз сегодня.",
+    "kind": "clan",
+    "target": 100,
+    "reward": {
+      "money": 491,
+      "mats": 67,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_089",
+    "text": "Выполните действие типа happiness 101 раз сегодня.",
+    "kind": "happiness",
+    "target": 101,
+    "reward": {
+      "money": 182,
+      "mats": 97,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_090",
+    "text": "Выполните действие типа collect 39 раз сегодня.",
+    "kind": "collect",
+    "target": 39,
+    "reward": {
+      "money": 769,
+      "mats": 54,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_091",
+    "text": "Выполните действие типа build 50 раз сегодня.",
+    "kind": "build",
+    "target": 50,
+    "reward": {
+      "money": 650,
+      "mats": 60,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_092",
+    "text": "Выполните действие типа research 37 раз сегодня.",
+    "kind": "research",
+    "target": 37,
+    "reward": {
+      "money": 845,
+      "mats": 38,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_093",
+    "text": "Выполните действие типа policy 10 раз сегодня.",
+    "kind": "policy",
+    "target": 10,
+    "reward": {
+      "money": 405,
+      "mats": 69,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_094",
+    "text": "Выполните действие типа duel 113 раз сегодня.",
+    "kind": "duel",
+    "target": 113,
+    "reward": {
+      "money": 644,
+      "mats": 58,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_095",
+    "text": "Выполните действие типа trade 68 раз сегодня.",
+    "kind": "trade",
+    "target": 68,
+    "reward": {
+      "money": 571,
+      "mats": 54,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_096",
+    "text": "Выполните действие типа event 75 раз сегодня.",
+    "kind": "event",
+    "target": 75,
+    "reward": {
+      "money": 293,
+      "mats": 24,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_097",
+    "text": "Выполните действие типа clan 112 раз сегодня.",
+    "kind": "clan",
+    "target": 112,
+    "reward": {
+      "money": 729,
+      "mats": 12,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_098",
+    "text": "Выполните действие типа happiness 57 раз сегодня.",
+    "kind": "happiness",
+    "target": 57,
+    "reward": {
+      "money": 168,
+      "mats": 22,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_099",
+    "text": "Выполните действие типа collect 13 раз сегодня.",
+    "kind": "collect",
+    "target": 13,
+    "reward": {
+      "money": 557,
+      "mats": 86,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_100",
+    "text": "Выполните действие типа build 67 раз сегодня.",
+    "kind": "build",
+    "target": 67,
+    "reward": {
+      "money": 858,
+      "mats": 15,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_101",
+    "text": "Выполните действие типа research 117 раз сегодня.",
+    "kind": "research",
+    "target": 117,
+    "reward": {
+      "money": 339,
+      "mats": 79,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_102",
+    "text": "Выполните действие типа policy 19 раз сегодня.",
+    "kind": "policy",
+    "target": 19,
+    "reward": {
+      "money": 243,
+      "mats": 74,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_103",
+    "text": "Выполните действие типа duel 64 раз сегодня.",
+    "kind": "duel",
+    "target": 64,
+    "reward": {
+      "money": 935,
+      "mats": 83,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_104",
+    "text": "Выполните действие типа trade 87 раз сегодня.",
+    "kind": "trade",
+    "target": 87,
+    "reward": {
+      "money": 342,
+      "mats": 48,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_105",
+    "text": "Выполните действие типа event 138 раз сегодня.",
+    "kind": "event",
+    "target": 138,
+    "reward": {
+      "money": 326,
+      "mats": 62,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_106",
+    "text": "Выполните действие типа clan 75 раз сегодня.",
+    "kind": "clan",
+    "target": 75,
+    "reward": {
+      "money": 162,
+      "mats": 81,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_107",
+    "text": "Выполните действие типа happiness 49 раз сегодня.",
+    "kind": "happiness",
+    "target": 49,
+    "reward": {
+      "money": 741,
+      "mats": 96,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_108",
+    "text": "Выполните действие типа collect 147 раз сегодня.",
+    "kind": "collect",
+    "target": 147,
+    "reward": {
+      "money": 607,
+      "mats": 16,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_109",
+    "text": "Выполните действие типа build 102 раз сегодня.",
+    "kind": "build",
+    "target": 102,
+    "reward": {
+      "money": 904,
+      "mats": 77,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_110",
+    "text": "Выполните действие типа research 111 раз сегодня.",
+    "kind": "research",
+    "target": 111,
+    "reward": {
+      "money": 518,
+      "mats": 29,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_111",
+    "text": "Выполните действие типа policy 101 раз сегодня.",
+    "kind": "policy",
+    "target": 101,
+    "reward": {
+      "money": 288,
+      "mats": 78,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_112",
+    "text": "Выполните действие типа duel 66 раз сегодня.",
+    "kind": "duel",
+    "target": 66,
+    "reward": {
+      "money": 969,
+      "mats": 38,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_113",
+    "text": "Выполните действие типа trade 41 раз сегодня.",
+    "kind": "trade",
+    "target": 41,
+    "reward": {
+      "money": 925,
+      "mats": 69,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_114",
+    "text": "Выполните действие типа event 148 раз сегодня.",
+    "kind": "event",
+    "target": 148,
+    "reward": {
+      "money": 522,
+      "mats": 63,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_115",
+    "text": "Выполните действие типа clan 140 раз сегодня.",
+    "kind": "clan",
+    "target": 140,
+    "reward": {
+      "money": 237,
+      "mats": 59,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_116",
+    "text": "Выполните действие типа happiness 70 раз сегодня.",
+    "kind": "happiness",
+    "target": 70,
+    "reward": {
+      "money": 308,
+      "mats": 52,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_117",
+    "text": "Выполните действие типа collect 120 раз сегодня.",
+    "kind": "collect",
+    "target": 120,
+    "reward": {
+      "money": 967,
+      "mats": 57,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_118",
+    "text": "Выполните действие типа build 142 раз сегодня.",
+    "kind": "build",
+    "target": 142,
+    "reward": {
+      "money": 841,
+      "mats": 34,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_119",
+    "text": "Выполните действие типа research 73 раз сегодня.",
+    "kind": "research",
+    "target": 73,
+    "reward": {
+      "money": 486,
+      "mats": 96,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_120",
+    "text": "Выполните действие типа policy 15 раз сегодня.",
+    "kind": "policy",
+    "target": 15,
+    "reward": {
+      "money": 994,
+      "mats": 19,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_121",
+    "text": "Выполните действие типа duel 148 раз сегодня.",
+    "kind": "duel",
+    "target": 148,
+    "reward": {
+      "money": 322,
+      "mats": 71,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_122",
+    "text": "Выполните действие типа trade 90 раз сегодня.",
+    "kind": "trade",
+    "target": 90,
+    "reward": {
+      "money": 410,
+      "mats": 11,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_123",
+    "text": "Выполните действие типа event 53 раз сегодня.",
+    "kind": "event",
+    "target": 53,
+    "reward": {
+      "money": 859,
+      "mats": 25,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_124",
+    "text": "Выполните действие типа clan 67 раз сегодня.",
+    "kind": "clan",
+    "target": 67,
+    "reward": {
+      "money": 812,
+      "mats": 87,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_125",
+    "text": "Выполните действие типа happiness 106 раз сегодня.",
+    "kind": "happiness",
+    "target": 106,
+    "reward": {
+      "money": 345,
+      "mats": 80,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_126",
+    "text": "Выполните действие типа collect 77 раз сегодня.",
+    "kind": "collect",
+    "target": 77,
+    "reward": {
+      "money": 489,
+      "mats": 69,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_127",
+    "text": "Выполните действие типа build 96 раз сегодня.",
+    "kind": "build",
+    "target": 96,
+    "reward": {
+      "money": 415,
+      "mats": 43,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_128",
+    "text": "Выполните действие типа research 136 раз сегодня.",
+    "kind": "research",
+    "target": 136,
+    "reward": {
+      "money": 609,
+      "mats": 69,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_129",
+    "text": "Выполните действие типа policy 125 раз сегодня.",
+    "kind": "policy",
+    "target": 125,
+    "reward": {
+      "money": 879,
+      "mats": 50,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_130",
+    "text": "Выполните действие типа duel 99 раз сегодня.",
+    "kind": "duel",
+    "target": 99,
+    "reward": {
+      "money": 420,
+      "mats": 62,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_131",
+    "text": "Выполните действие типа trade 149 раз сегодня.",
+    "kind": "trade",
+    "target": 149,
+    "reward": {
+      "money": 984,
+      "mats": 38,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_132",
+    "text": "Выполните действие типа event 9 раз сегодня.",
+    "kind": "event",
+    "target": 9,
+    "reward": {
+      "money": 367,
+      "mats": 80,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_133",
+    "text": "Выполните действие типа clan 111 раз сегодня.",
+    "kind": "clan",
+    "target": 111,
+    "reward": {
+      "money": 402,
+      "mats": 29,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_134",
+    "text": "Выполните действие типа happiness 89 раз сегодня.",
+    "kind": "happiness",
+    "target": 89,
+    "reward": {
+      "money": 335,
+      "mats": 58,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_135",
+    "text": "Выполните действие типа collect 67 раз сегодня.",
+    "kind": "collect",
+    "target": 67,
+    "reward": {
+      "money": 611,
+      "mats": 80,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_136",
+    "text": "Выполните действие типа build 70 раз сегодня.",
+    "kind": "build",
+    "target": 70,
+    "reward": {
+      "money": 881,
+      "mats": 72,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_137",
+    "text": "Выполните действие типа research 122 раз сегодня.",
+    "kind": "research",
+    "target": 122,
+    "reward": {
+      "money": 272,
+      "mats": 55,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_138",
+    "text": "Выполните действие типа policy 40 раз сегодня.",
+    "kind": "policy",
+    "target": 40,
+    "reward": {
+      "money": 837,
+      "mats": 79,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_139",
+    "text": "Выполните действие типа duel 52 раз сегодня.",
+    "kind": "duel",
+    "target": 52,
+    "reward": {
+      "money": 655,
+      "mats": 92,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_140",
+    "text": "Выполните действие типа trade 139 раз сегодня.",
+    "kind": "trade",
+    "target": 139,
+    "reward": {
+      "money": 134,
+      "mats": 19,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_141",
+    "text": "Выполните действие типа event 6 раз сегодня.",
+    "kind": "event",
+    "target": 6,
+    "reward": {
+      "money": 522,
+      "mats": 27,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_142",
+    "text": "Выполните действие типа clan 22 раз сегодня.",
+    "kind": "clan",
+    "target": 22,
+    "reward": {
+      "money": 824,
+      "mats": 29,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_143",
+    "text": "Выполните действие типа happiness 60 раз сегодня.",
+    "kind": "happiness",
+    "target": 60,
+    "reward": {
+      "money": 617,
+      "mats": 68,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_144",
+    "text": "Выполните действие типа collect 20 раз сегодня.",
+    "kind": "collect",
+    "target": 20,
+    "reward": {
+      "money": 732,
+      "mats": 91,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_145",
+    "text": "Выполните действие типа build 128 раз сегодня.",
+    "kind": "build",
+    "target": 128,
+    "reward": {
+      "money": 775,
+      "mats": 72,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_146",
+    "text": "Выполните действие типа research 6 раз сегодня.",
+    "kind": "research",
+    "target": 6,
+    "reward": {
+      "money": 644,
+      "mats": 80,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_147",
+    "text": "Выполните действие типа policy 8 раз сегодня.",
+    "kind": "policy",
+    "target": 8,
+    "reward": {
+      "money": 117,
+      "mats": 77,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_148",
+    "text": "Выполните действие типа duel 142 раз сегодня.",
+    "kind": "duel",
+    "target": 142,
+    "reward": {
+      "money": 393,
+      "mats": 12,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_149",
+    "text": "Выполните действие типа trade 115 раз сегодня.",
+    "kind": "trade",
+    "target": 115,
+    "reward": {
+      "money": 925,
+      "mats": 32,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_150",
+    "text": "Выполните действие типа event 29 раз сегодня.",
+    "kind": "event",
+    "target": 29,
+    "reward": {
+      "money": 636,
+      "mats": 29,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_151",
+    "text": "Выполните действие типа clan 54 раз сегодня.",
+    "kind": "clan",
+    "target": 54,
+    "reward": {
+      "money": 734,
+      "mats": 77,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_152",
+    "text": "Выполните действие типа happiness 95 раз сегодня.",
+    "kind": "happiness",
+    "target": 95,
+    "reward": {
+      "money": 373,
+      "mats": 60,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_153",
+    "text": "Выполните действие типа collect 100 раз сегодня.",
+    "kind": "collect",
+    "target": 100,
+    "reward": {
+      "money": 515,
+      "mats": 68,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_154",
+    "text": "Выполните действие типа build 67 раз сегодня.",
+    "kind": "build",
+    "target": 67,
+    "reward": {
+      "money": 813,
+      "mats": 38,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_155",
+    "text": "Выполните действие типа research 25 раз сегодня.",
+    "kind": "research",
+    "target": 25,
+    "reward": {
+      "money": 769,
+      "mats": 93,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_156",
+    "text": "Выполните действие типа policy 28 раз сегодня.",
+    "kind": "policy",
+    "target": 28,
+    "reward": {
+      "money": 515,
+      "mats": 58,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_157",
+    "text": "Выполните действие типа duel 146 раз сегодня.",
+    "kind": "duel",
+    "target": 146,
+    "reward": {
+      "money": 587,
+      "mats": 17,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_158",
+    "text": "Выполните действие типа trade 48 раз сегодня.",
+    "kind": "trade",
+    "target": 48,
+    "reward": {
+      "money": 184,
+      "mats": 73,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_159",
+    "text": "Выполните действие типа event 89 раз сегодня.",
+    "kind": "event",
+    "target": 89,
+    "reward": {
+      "money": 679,
+      "mats": 22,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_160",
+    "text": "Выполните действие типа clan 15 раз сегодня.",
+    "kind": "clan",
+    "target": 15,
+    "reward": {
+      "money": 335,
+      "mats": 37,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_161",
+    "text": "Выполните действие типа happiness 126 раз сегодня.",
+    "kind": "happiness",
+    "target": 126,
+    "reward": {
+      "money": 377,
+      "mats": 15,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_162",
+    "text": "Выполните действие типа collect 76 раз сегодня.",
+    "kind": "collect",
+    "target": 76,
+    "reward": {
+      "money": 656,
+      "mats": 82,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_163",
+    "text": "Выполните действие типа build 50 раз сегодня.",
+    "kind": "build",
+    "target": 50,
+    "reward": {
+      "money": 970,
+      "mats": 50,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_164",
+    "text": "Выполните действие типа research 58 раз сегодня.",
+    "kind": "research",
+    "target": 58,
+    "reward": {
+      "money": 701,
+      "mats": 28,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_165",
+    "text": "Выполните действие типа policy 24 раз сегодня.",
+    "kind": "policy",
+    "target": 24,
+    "reward": {
+      "money": 406,
+      "mats": 30,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_166",
+    "text": "Выполните действие типа duel 66 раз сегодня.",
+    "kind": "duel",
+    "target": 66,
+    "reward": {
+      "money": 680,
+      "mats": 59,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_167",
+    "text": "Выполните действие типа trade 89 раз сегодня.",
+    "kind": "trade",
+    "target": 89,
+    "reward": {
+      "money": 493,
+      "mats": 27,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_168",
+    "text": "Выполните действие типа event 133 раз сегодня.",
+    "kind": "event",
+    "target": 133,
+    "reward": {
+      "money": 863,
+      "mats": 54,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_169",
+    "text": "Выполните действие типа clan 30 раз сегодня.",
+    "kind": "clan",
+    "target": 30,
+    "reward": {
+      "money": 547,
+      "mats": 39,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_170",
+    "text": "Выполните действие типа happiness 92 раз сегодня.",
+    "kind": "happiness",
+    "target": 92,
+    "reward": {
+      "money": 719,
+      "mats": 88,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_171",
+    "text": "Выполните действие типа collect 106 раз сегодня.",
+    "kind": "collect",
+    "target": 106,
+    "reward": {
+      "money": 892,
+      "mats": 51,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_172",
+    "text": "Выполните действие типа build 74 раз сегодня.",
+    "kind": "build",
+    "target": 74,
+    "reward": {
+      "money": 902,
+      "mats": 67,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_173",
+    "text": "Выполните действие типа research 63 раз сегодня.",
+    "kind": "research",
+    "target": 63,
+    "reward": {
+      "money": 464,
+      "mats": 80,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_174",
+    "text": "Выполните действие типа policy 115 раз сегодня.",
+    "kind": "policy",
+    "target": 115,
+    "reward": {
+      "money": 290,
+      "mats": 97,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_175",
+    "text": "Выполните действие типа duel 102 раз сегодня.",
+    "kind": "duel",
+    "target": 102,
+    "reward": {
+      "money": 187,
+      "mats": 89,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_176",
+    "text": "Выполните действие типа trade 68 раз сегодня.",
+    "kind": "trade",
+    "target": 68,
+    "reward": {
+      "money": 830,
+      "mats": 19,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_177",
+    "text": "Выполните действие типа event 73 раз сегодня.",
+    "kind": "event",
+    "target": 73,
+    "reward": {
+      "money": 257,
+      "mats": 58,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_178",
+    "text": "Выполните действие типа clan 104 раз сегодня.",
+    "kind": "clan",
+    "target": 104,
+    "reward": {
+      "money": 424,
+      "mats": 56,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_179",
+    "text": "Выполните действие типа happiness 28 раз сегодня.",
+    "kind": "happiness",
+    "target": 28,
+    "reward": {
+      "money": 105,
+      "mats": 49,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_180",
+    "text": "Выполните действие типа collect 97 раз сегодня.",
+    "kind": "collect",
+    "target": 97,
+    "reward": {
+      "money": 879,
+      "mats": 44,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_181",
+    "text": "Выполните действие типа build 38 раз сегодня.",
+    "kind": "build",
+    "target": 38,
+    "reward": {
+      "money": 189,
+      "mats": 33,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_182",
+    "text": "Выполните действие типа research 119 раз сегодня.",
+    "kind": "research",
+    "target": 119,
+    "reward": {
+      "money": 670,
+      "mats": 81,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_183",
+    "text": "Выполните действие типа policy 109 раз сегодня.",
+    "kind": "policy",
+    "target": 109,
+    "reward": {
+      "money": 205,
+      "mats": 13,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_184",
+    "text": "Выполните действие типа duel 95 раз сегодня.",
+    "kind": "duel",
+    "target": 95,
+    "reward": {
+      "money": 667,
+      "mats": 21,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_185",
+    "text": "Выполните действие типа trade 88 раз сегодня.",
+    "kind": "trade",
+    "target": 88,
+    "reward": {
+      "money": 984,
+      "mats": 59,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_186",
+    "text": "Выполните действие типа event 79 раз сегодня.",
+    "kind": "event",
+    "target": 79,
+    "reward": {
+      "money": 523,
+      "mats": 59,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_187",
+    "text": "Выполните действие типа clan 148 раз сегодня.",
+    "kind": "clan",
+    "target": 148,
+    "reward": {
+      "money": 348,
+      "mats": 83,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_188",
+    "text": "Выполните действие типа happiness 48 раз сегодня.",
+    "kind": "happiness",
+    "target": 48,
+    "reward": {
+      "money": 801,
+      "mats": 58,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_189",
+    "text": "Выполните действие типа collect 40 раз сегодня.",
+    "kind": "collect",
+    "target": 40,
+    "reward": {
+      "money": 375,
+      "mats": 48,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_190",
+    "text": "Выполните действие типа build 131 раз сегодня.",
+    "kind": "build",
+    "target": 131,
+    "reward": {
+      "money": 249,
+      "mats": 18,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_191",
+    "text": "Выполните действие типа research 116 раз сегодня.",
+    "kind": "research",
+    "target": 116,
+    "reward": {
+      "money": 382,
+      "mats": 63,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_192",
+    "text": "Выполните действие типа policy 128 раз сегодня.",
+    "kind": "policy",
+    "target": 128,
+    "reward": {
+      "money": 901,
+      "mats": 19,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_193",
+    "text": "Выполните действие типа duel 69 раз сегодня.",
+    "kind": "duel",
+    "target": 69,
+    "reward": {
+      "money": 352,
+      "mats": 90,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_194",
+    "text": "Выполните действие типа trade 55 раз сегодня.",
+    "kind": "trade",
+    "target": 55,
+    "reward": {
+      "money": 568,
+      "mats": 23,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_195",
+    "text": "Выполните действие типа event 82 раз сегодня.",
+    "kind": "event",
+    "target": 82,
+    "reward": {
+      "money": 106,
+      "mats": 60,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_196",
+    "text": "Выполните действие типа clan 102 раз сегодня.",
+    "kind": "clan",
+    "target": 102,
+    "reward": {
+      "money": 923,
+      "mats": 52,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_197",
+    "text": "Выполните действие типа happiness 90 раз сегодня.",
+    "kind": "happiness",
+    "target": 90,
+    "reward": {
+      "money": 540,
+      "mats": 93,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_198",
+    "text": "Выполните действие типа collect 39 раз сегодня.",
+    "kind": "collect",
+    "target": 39,
+    "reward": {
+      "money": 407,
+      "mats": 51,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_199",
+    "text": "Выполните действие типа build 56 раз сегодня.",
+    "kind": "build",
+    "target": 56,
+    "reward": {
+      "money": 590,
+      "mats": 50,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_200",
+    "text": "Выполните действие типа research 106 раз сегодня.",
+    "kind": "research",
+    "target": 106,
+    "reward": {
+      "money": 426,
+      "mats": 47,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_201",
+    "text": "Выполните действие типа policy 67 раз сегодня.",
+    "kind": "policy",
+    "target": 67,
+    "reward": {
+      "money": 433,
+      "mats": 58,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_202",
+    "text": "Выполните действие типа duel 105 раз сегодня.",
+    "kind": "duel",
+    "target": 105,
+    "reward": {
+      "money": 473,
+      "mats": 24,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_203",
+    "text": "Выполните действие типа trade 56 раз сегодня.",
+    "kind": "trade",
+    "target": 56,
+    "reward": {
+      "money": 706,
+      "mats": 79,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_204",
+    "text": "Выполните действие типа event 145 раз сегодня.",
+    "kind": "event",
+    "target": 145,
+    "reward": {
+      "money": 127,
+      "mats": 69,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_205",
+    "text": "Выполните действие типа clan 117 раз сегодня.",
+    "kind": "clan",
+    "target": 117,
+    "reward": {
+      "money": 916,
+      "mats": 47,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_206",
+    "text": "Выполните действие типа happiness 109 раз сегодня.",
+    "kind": "happiness",
+    "target": 109,
+    "reward": {
+      "money": 789,
+      "mats": 73,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_207",
+    "text": "Выполните действие типа collect 82 раз сегодня.",
+    "kind": "collect",
+    "target": 82,
+    "reward": {
+      "money": 347,
+      "mats": 42,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_208",
+    "text": "Выполните действие типа build 113 раз сегодня.",
+    "kind": "build",
+    "target": 113,
+    "reward": {
+      "money": 908,
+      "mats": 58,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_209",
+    "text": "Выполните действие типа research 119 раз сегодня.",
+    "kind": "research",
+    "target": 119,
+    "reward": {
+      "money": 712,
+      "mats": 71,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_210",
+    "text": "Выполните действие типа policy 107 раз сегодня.",
+    "kind": "policy",
+    "target": 107,
+    "reward": {
+      "money": 647,
+      "mats": 74,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_211",
+    "text": "Выполните действие типа duel 144 раз сегодня.",
+    "kind": "duel",
+    "target": 144,
+    "reward": {
+      "money": 137,
+      "mats": 56,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_212",
+    "text": "Выполните действие типа trade 26 раз сегодня.",
+    "kind": "trade",
+    "target": 26,
+    "reward": {
+      "money": 211,
+      "mats": 41,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_213",
+    "text": "Выполните действие типа event 47 раз сегодня.",
+    "kind": "event",
+    "target": 47,
+    "reward": {
+      "money": 762,
+      "mats": 88,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_214",
+    "text": "Выполните действие типа clan 149 раз сегодня.",
+    "kind": "clan",
+    "target": 149,
+    "reward": {
+      "money": 760,
+      "mats": 96,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_215",
+    "text": "Выполните действие типа happiness 89 раз сегодня.",
+    "kind": "happiness",
+    "target": 89,
+    "reward": {
+      "money": 915,
+      "mats": 65,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_216",
+    "text": "Выполните действие типа collect 7 раз сегодня.",
+    "kind": "collect",
+    "target": 7,
+    "reward": {
+      "money": 200,
+      "mats": 43,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_217",
+    "text": "Выполните действие типа build 135 раз сегодня.",
+    "kind": "build",
+    "target": 135,
+    "reward": {
+      "money": 864,
+      "mats": 76,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_218",
+    "text": "Выполните действие типа research 61 раз сегодня.",
+    "kind": "research",
+    "target": 61,
+    "reward": {
+      "money": 556,
+      "mats": 57,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_219",
+    "text": "Выполните действие типа policy 123 раз сегодня.",
+    "kind": "policy",
+    "target": 123,
+    "reward": {
+      "money": 890,
+      "mats": 96,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_220",
+    "text": "Выполните действие типа duel 133 раз сегодня.",
+    "kind": "duel",
+    "target": 133,
+    "reward": {
+      "money": 254,
+      "mats": 54,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_221",
+    "text": "Выполните действие типа trade 128 раз сегодня.",
+    "kind": "trade",
+    "target": 128,
+    "reward": {
+      "money": 207,
+      "mats": 47,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_222",
+    "text": "Выполните действие типа event 26 раз сегодня.",
+    "kind": "event",
+    "target": 26,
+    "reward": {
+      "money": 218,
+      "mats": 28,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_223",
+    "text": "Выполните действие типа clan 84 раз сегодня.",
+    "kind": "clan",
+    "target": 84,
+    "reward": {
+      "money": 451,
+      "mats": 68,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_224",
+    "text": "Выполните действие типа happiness 138 раз сегодня.",
+    "kind": "happiness",
+    "target": 138,
+    "reward": {
+      "money": 594,
+      "mats": 54,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_225",
+    "text": "Выполните действие типа collect 29 раз сегодня.",
+    "kind": "collect",
+    "target": 29,
+    "reward": {
+      "money": 548,
+      "mats": 99,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_226",
+    "text": "Выполните действие типа build 86 раз сегодня.",
+    "kind": "build",
+    "target": 86,
+    "reward": {
+      "money": 168,
+      "mats": 48,
+      "prestige": 1
+    }
+  },
+  {
+    "code": "DQ_227",
+    "text": "Выполните действие типа research 34 раз сегодня.",
+    "kind": "research",
+    "target": 34,
+    "reward": {
+      "money": 123,
+      "mats": 53,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_228",
+    "text": "Выполните действие типа policy 47 раз сегодня.",
+    "kind": "policy",
+    "target": 47,
+    "reward": {
+      "money": 858,
+      "mats": 41,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_229",
+    "text": "Выполните действие типа duel 49 раз сегодня.",
+    "kind": "duel",
+    "target": 49,
+    "reward": {
+      "money": 665,
+      "mats": 30,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_230",
+    "text": "Выполните действие типа trade 148 раз сегодня.",
+    "kind": "trade",
+    "target": 148,
+    "reward": {
+      "money": 536,
+      "mats": 69,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_231",
+    "text": "Выполните действие типа event 108 раз сегодня.",
+    "kind": "event",
+    "target": 108,
+    "reward": {
+      "money": 744,
+      "mats": 33,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_232",
+    "text": "Выполните действие типа clan 115 раз сегодня.",
+    "kind": "clan",
+    "target": 115,
+    "reward": {
+      "money": 505,
+      "mats": 13,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_233",
+    "text": "Выполните действие типа happiness 55 раз сегодня.",
+    "kind": "happiness",
+    "target": 55,
+    "reward": {
+      "money": 560,
+      "mats": 85,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_234",
+    "text": "Выполните действие типа collect 104 раз сегодня.",
+    "kind": "collect",
+    "target": 104,
+    "reward": {
+      "money": 104,
+      "mats": 100,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_235",
+    "text": "Выполните действие типа build 57 раз сегодня.",
+    "kind": "build",
+    "target": 57,
+    "reward": {
+      "money": 385,
+      "mats": 100,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_236",
+    "text": "Выполните действие типа research 31 раз сегодня.",
+    "kind": "research",
+    "target": 31,
+    "reward": {
+      "money": 918,
+      "mats": 78,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_237",
+    "text": "Выполните действие типа policy 98 раз сегодня.",
+    "kind": "policy",
+    "target": 98,
+    "reward": {
+      "money": 433,
+      "mats": 35,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_238",
+    "text": "Выполните действие типа duel 34 раз сегодня.",
+    "kind": "duel",
+    "target": 34,
+    "reward": {
+      "money": 368,
+      "mats": 95,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_239",
+    "text": "Выполните действие типа trade 140 раз сегодня.",
+    "kind": "trade",
+    "target": 140,
+    "reward": {
+      "money": 754,
+      "mats": 50,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_240",
+    "text": "Выполните действие типа event 104 раз сегодня.",
+    "kind": "event",
+    "target": 104,
+    "reward": {
+      "money": 725,
+      "mats": 60,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_241",
+    "text": "Выполните действие типа clan 34 раз сегодня.",
+    "kind": "clan",
+    "target": 34,
+    "reward": {
+      "money": 456,
+      "mats": 55,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_242",
+    "text": "Выполните действие типа happiness 49 раз сегодня.",
+    "kind": "happiness",
+    "target": 49,
+    "reward": {
+      "money": 933,
+      "mats": 96,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_243",
+    "text": "Выполните действие типа collect 26 раз сегодня.",
+    "kind": "collect",
+    "target": 26,
+    "reward": {
+      "money": 788,
+      "mats": 27,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_244",
+    "text": "Выполните действие типа build 35 раз сегодня.",
+    "kind": "build",
+    "target": 35,
+    "reward": {
+      "money": 344,
+      "mats": 49,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_245",
+    "text": "Выполните действие типа research 51 раз сегодня.",
+    "kind": "research",
+    "target": 51,
+    "reward": {
+      "money": 482,
+      "mats": 98,
+      "prestige": 3
+    }
+  },
+  {
+    "code": "DQ_246",
+    "text": "Выполните действие типа policy 135 раз сегодня.",
+    "kind": "policy",
+    "target": 135,
+    "reward": {
+      "money": 497,
+      "mats": 63,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_247",
+    "text": "Выполните действие типа duel 40 раз сегодня.",
+    "kind": "duel",
+    "target": 40,
+    "reward": {
+      "money": 688,
+      "mats": 59,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_248",
+    "text": "Выполните действие типа trade 52 раз сегодня.",
+    "kind": "trade",
+    "target": 52,
+    "reward": {
+      "money": 598,
+      "mats": 91,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_249",
+    "text": "Выполните действие типа event 49 раз сегодня.",
+    "kind": "event",
+    "target": 49,
+    "reward": {
+      "money": 668,
+      "mats": 31,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_250",
+    "text": "Выполните действие типа clan 78 раз сегодня.",
+    "kind": "clan",
+    "target": 78,
+    "reward": {
+      "money": 243,
+      "mats": 33,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_251",
+    "text": "Выполните действие типа happiness 120 раз сегодня.",
+    "kind": "happiness",
+    "target": 120,
+    "reward": {
+      "money": 734,
+      "mats": 16,
+      "prestige": 6
+    }
+  },
+  {
+    "code": "DQ_252",
+    "text": "Выполните действие типа collect 7 раз сегодня.",
+    "kind": "collect",
+    "target": 7,
+    "reward": {
+      "money": 596,
+      "mats": 27,
+      "prestige": 4
+    }
+  },
+  {
+    "code": "DQ_253",
+    "text": "Выполните действие типа build 103 раз сегодня.",
+    "kind": "build",
+    "target": 103,
+    "reward": {
+      "money": 675,
+      "mats": 74,
+      "prestige": 8
+    }
+  },
+  {
+    "code": "DQ_254",
+    "text": "Выполните действие типа research 109 раз сегодня.",
+    "kind": "research",
+    "target": 109,
+    "reward": {
+      "money": 801,
+      "mats": 72,
+      "prestige": 7
+    }
+  },
+  {
+    "code": "DQ_255",
+    "text": "Выполните действие типа policy 118 раз сегодня.",
+    "kind": "policy",
+    "target": 118,
+    "reward": {
+      "money": 600,
+      "mats": 31,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_256",
+    "text": "Выполните действие типа duel 149 раз сегодня.",
+    "kind": "duel",
+    "target": 149,
+    "reward": {
+      "money": 131,
+      "mats": 38,
+      "prestige": 5
+    }
+  },
+  {
+    "code": "DQ_257",
+    "text": "Выполните действие типа trade 13 раз сегодня.",
+    "kind": "trade",
+    "target": 13,
+    "reward": {
+      "money": 381,
+      "mats": 38,
+      "prestige": 9
+    }
+  },
+  {
+    "code": "DQ_258",
+    "text": "Выполните действие типа event 78 раз сегодня.",
+    "kind": "event",
+    "target": 78,
+    "reward": {
+      "money": 272,
+      "mats": 68,
+      "prestige": 10
+    }
+  },
+  {
+    "code": "DQ_259",
+    "text": "Выполните действие типа clan 131 раз сегодня.",
+    "kind": "clan",
+    "target": 131,
+    "reward": {
+      "money": 662,
+      "mats": 75,
+      "prestige": 2
+    }
+  },
+  {
+    "code": "DQ_260",
+    "text": "Выполните действие типа happiness 34 раз сегодня.",
+    "kind": "happiness",
+    "target": 34,
+    "reward": {
+      "money": 374,
+      "mats": 79,
+      "prestige": 6
+    }
+  }
+]

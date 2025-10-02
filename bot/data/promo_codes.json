@@ -1,0 +1,502 @@
+[
+  {
+    "code": "PROMO001",
+    "reward": {
+      "money": 3456,
+      "mats": 335,
+      "prestige": 24
+    },
+    "uses_left": 111,
+    "expires_in_days": 112
+  },
+  {
+    "code": "PROMO002",
+    "reward": {
+      "money": 3523,
+      "mats": 456,
+      "prestige": 23
+    },
+    "uses_left": 19,
+    "expires_in_days": 112
+  },
+  {
+    "code": "PROMO003",
+    "reward": {
+      "money": 2677,
+      "mats": 320,
+      "prestige": 2
+    },
+    "uses_left": 192,
+    "expires_in_days": 16
+  },
+  {
+    "code": "PROMO004",
+    "reward": {
+      "money": 2989,
+      "mats": 89,
+      "prestige": 7
+    },
+    "uses_left": 137,
+    "expires_in_days": 19
+  },
+  {
+    "code": "PROMO005",
+    "reward": {
+      "money": 1329,
+      "mats": 421,
+      "prestige": 8
+    },
+    "uses_left": 141,
+    "expires_in_days": 56
+  },
+  {
+    "code": "PROMO006",
+    "reward": {
+      "money": 2052,
+      "mats": 148,
+      "prestige": 17
+    },
+    "uses_left": 173,
+    "expires_in_days": 38
+  },
+  {
+    "code": "PROMO007",
+    "reward": {
+      "money": 1965,
+      "mats": 335,
+      "prestige": 24
+    },
+    "uses_left": 147,
+    "expires_in_days": 60
+  },
+  {
+    "code": "PROMO008",
+    "reward": {
+      "money": 1364,
+      "mats": 442,
+      "prestige": 21
+    },
+    "uses_left": 152,
+    "expires_in_days": 52
+  },
+  {
+    "code": "PROMO009",
+    "reward": {
+      "money": 4257,
+      "mats": 409,
+      "prestige": 22
+    },
+    "uses_left": 114,
+    "expires_in_days": 120
+  },
+  {
+    "code": "PROMO010",
+    "reward": {
+      "money": 1352,
+      "mats": 135,
+      "prestige": 6
+    },
+    "uses_left": 145,
+    "expires_in_days": 58
+  },
+  {
+    "code": "PROMO011",
+    "reward": {
+      "money": 4634,
+      "mats": 222,
+      "prestige": 22
+    },
+    "uses_left": 45,
+    "expires_in_days": 75
+  },
+  {
+    "code": "PROMO012",
+    "reward": {
+      "money": 4129,
+      "mats": 230,
+      "prestige": 11
+    },
+    "uses_left": 145,
+    "expires_in_days": 48
+  },
+  {
+    "code": "PROMO013",
+    "reward": {
+      "money": 3545,
+      "mats": 261,
+      "prestige": 25
+    },
+    "uses_left": 167,
+    "expires_in_days": 62
+  },
+  {
+    "code": "PROMO014",
+    "reward": {
+      "money": 3149,
+      "mats": 361,
+      "prestige": 8
+    },
+    "uses_left": 149,
+    "expires_in_days": 76
+  },
+  {
+    "code": "PROMO015",
+    "reward": {
+      "money": 2252,
+      "mats": 242,
+      "prestige": 25
+    },
+    "uses_left": 145,
+    "expires_in_days": 102
+  },
+  {
+    "code": "PROMO016",
+    "reward": {
+      "money": 2581,
+      "mats": 234,
+      "prestige": 15
+    },
+    "uses_left": 119,
+    "expires_in_days": 57
+  },
+  {
+    "code": "PROMO017",
+    "reward": {
+      "money": 501,
+      "mats": 421,
+      "prestige": 2
+    },
+    "uses_left": 77,
+    "expires_in_days": 83
+  },
+  {
+    "code": "PROMO018",
+    "reward": {
+      "money": 633,
+      "mats": 315,
+      "prestige": 5
+    },
+    "uses_left": 82,
+    "expires_in_days": 7
+  },
+  {
+    "code": "PROMO019",
+    "reward": {
+      "money": 2960,
+      "mats": 163,
+      "prestige": 7
+    },
+    "uses_left": 85,
+    "expires_in_days": 9
+  },
+  {
+    "code": "PROMO020",
+    "reward": {
+      "money": 2760,
+      "mats": 333,
+      "prestige": 17
+    },
+    "uses_left": 147,
+    "expires_in_days": 80
+  },
+  {
+    "code": "PROMO021",
+    "reward": {
+      "money": 1767,
+      "mats": 98,
+      "prestige": 2
+    },
+    "uses_left": 122,
+    "expires_in_days": 52
+  },
+  {
+    "code": "PROMO022",
+    "reward": {
+      "money": 1778,
+      "mats": 120,
+      "prestige": 9
+    },
+    "uses_left": 98,
+    "expires_in_days": 120
+  },
+  {
+    "code": "PROMO023",
+    "reward": {
+      "money": 2546,
+      "mats": 169,
+      "prestige": 9
+    },
+    "uses_left": 81,
+    "expires_in_days": 18
+  },
+  {
+    "code": "PROMO024",
+    "reward": {
+      "money": 3775,
+      "mats": 341,
+      "prestige": 7
+    },
+    "uses_left": 192,
+    "expires_in_days": 16
+  },
+  {
+    "code": "PROMO025",
+    "reward": {
+      "money": 3159,
+      "mats": 455,
+      "prestige": 16
+    },
+    "uses_left": 49,
+    "expires_in_days": 69
+  },
+  {
+    "code": "PROMO026",
+    "reward": {
+      "money": 1281,
+      "mats": 354,
+      "prestige": 21
+    },
+    "uses_left": 81,
+    "expires_in_days": 11
+  },
+  {
+    "code": "PROMO027",
+    "reward": {
+      "money": 3625,
+      "mats": 90,
+      "prestige": 25
+    },
+    "uses_left": 19,
+    "expires_in_days": 105
+  },
+  {
+    "code": "PROMO028",
+    "reward": {
+      "money": 3239,
+      "mats": 228,
+      "prestige": 14
+    },
+    "uses_left": 111,
+    "expires_in_days": 118
+  },
+  {
+    "code": "PROMO029",
+    "reward": {
+      "money": 1487,
+      "mats": 495,
+      "prestige": 25
+    },
+    "uses_left": 63,
+    "expires_in_days": 102
+  },
+  {
+    "code": "PROMO030",
+    "reward": {
+      "money": 593,
+      "mats": 374,
+      "prestige": 25
+    },
+    "uses_left": 166,
+    "expires_in_days": 55
+  },
+  {
+    "code": "PROMO031",
+    "reward": {
+      "money": 943,
+      "mats": 206,
+      "prestige": 17
+    },
+    "uses_left": 15,
+    "expires_in_days": 47
+  },
+  {
+    "code": "PROMO032",
+    "reward": {
+      "money": 4923,
+      "mats": 339,
+      "prestige": 5
+    },
+    "uses_left": 88,
+    "expires_in_days": 71
+  },
+  {
+    "code": "PROMO033",
+    "reward": {
+      "money": 2308,
+      "mats": 128,
+      "prestige": 2
+    },
+    "uses_left": 177,
+    "expires_in_days": 100
+  },
+  {
+    "code": "PROMO034",
+    "reward": {
+      "money": 3718,
+      "mats": 278,
+      "prestige": 25
+    },
+    "uses_left": 157,
+    "expires_in_days": 80
+  },
+  {
+    "code": "PROMO035",
+    "reward": {
+      "money": 4634,
+      "mats": 96,
+      "prestige": 8
+    },
+    "uses_left": 115,
+    "expires_in_days": 44
+  },
+  {
+    "code": "PROMO036",
+    "reward": {
+      "money": 3730,
+      "mats": 125,
+      "prestige": 5
+    },
+    "uses_left": 91,
+    "expires_in_days": 17
+  },
+  {
+    "code": "PROMO037",
+    "reward": {
+      "money": 4398,
+      "mats": 342,
+      "prestige": 24
+    },
+    "uses_left": 17,
+    "expires_in_days": 77
+  },
+  {
+    "code": "PROMO038",
+    "reward": {
+      "money": 3770,
+      "mats": 184,
+      "prestige": 3
+    },
+    "uses_left": 107,
+    "expires_in_days": 71
+  },
+  {
+    "code": "PROMO039",
+    "reward": {
+      "money": 4059,
+      "mats": 446,
+      "prestige": 23
+    },
+    "uses_left": 38,
+    "expires_in_days": 104
+  },
+  {
+    "code": "PROMO040",
+    "reward": {
+      "money": 1604,
+      "mats": 296,
+      "prestige": 18
+    },
+    "uses_left": 55,
+    "expires_in_days": 69
+  },
+  {
+    "code": "PROMO041",
+    "reward": {
+      "money": 3738,
+      "mats": 383,
+      "prestige": 19
+    },
+    "uses_left": 55,
+    "expires_in_days": 78
+  },
+  {
+    "code": "PROMO042",
+    "reward": {
+      "money": 4794,
+      "mats": 176,
+      "prestige": 8
+    },
+    "uses_left": 23,
+    "expires_in_days": 41
+  },
+  {
+    "code": "PROMO043",
+    "reward": {
+      "money": 4023,
+      "mats": 215,
+      "prestige": 22
+    },
+    "uses_left": 152,
+    "expires_in_days": 18
+  },
+  {
+    "code": "PROMO044",
+    "reward": {
+      "money": 1421,
+      "mats": 393,
+      "prestige": 14
+    },
+    "uses_left": 113,
+    "expires_in_days": 53
+  },
+  {
+    "code": "PROMO045",
+    "reward": {
+      "money": 3353,
+      "mats": 147,
+      "prestige": 11
+    },
+    "uses_left": 93,
+    "expires_in_days": 83
+  },
+  {
+    "code": "PROMO046",
+    "reward": {
+      "money": 698,
+      "mats": 444,
+      "prestige": 10
+    },
+    "uses_left": 48,
+    "expires_in_days": 51
+  },
+  {
+    "code": "PROMO047",
+    "reward": {
+      "money": 4122,
+      "mats": 369,
+      "prestige": 5
+    },
+    "uses_left": 117,
+    "expires_in_days": 12
+  },
+  {
+    "code": "PROMO048",
+    "reward": {
+      "money": 2412,
+      "mats": 152,
+      "prestige": 22
+    },
+    "uses_left": 100,
+    "expires_in_days": 26
+  },
+  {
+    "code": "PROMO049",
+    "reward": {
+      "money": 1202,
+      "mats": 107,
+      "prestige": 24
+    },
+    "uses_left": 18,
+    "expires_in_days": 38
+  },
+  {
+    "code": "PROMO050",
+    "reward": {
+      "money": 1709,
+      "mats": 494,
+      "prestige": 10
+    },
+    "uses_left": 8,
+    "expires_in_days": 50
+  }
+]

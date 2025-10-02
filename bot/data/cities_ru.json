@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "name": "Город-001",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 983912,
+    "founded": 1475
+  },
+  {
+    "id": 2,
+    "name": "Город-002",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2357113,
+    "founded": 1700
+  },
+  {
+    "id": 3,
+    "name": "Город-003",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1922427,
+    "founded": 1592
+  },
+  {
+    "id": 4,
+    "name": "Город-004",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 909791,
+    "founded": 2008
+  },
+  {
+    "id": 5,
+    "name": "Город-005",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 779295,
+    "founded": 1882
+  },
+  {
+    "id": 6,
+    "name": "Город-006",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 316612,
+    "founded": 1480
+  },
+  {
+    "id": 7,
+    "name": "Город-007",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 835972,
+    "founded": 1673
+  },
+  {
+    "id": 8,
+    "name": "Город-008",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2001701,
+    "founded": 1967
+  },
+  {
+    "id": 9,
+    "name": "Город-009",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 272599,
+    "founded": 1653
+  },
+  {
+    "id": 10,
+    "name": "Город-010",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 4621300,
+    "founded": 1879
+  },
+  {
+    "id": 11,
+    "name": "Город-011",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1899189,
+    "founded": 1909
+  },
+  {
+    "id": 12,
+    "name": "Город-012",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4993118,
+    "founded": 1734
+  },
+  {
+    "id": 13,
+    "name": "Город-013",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 104515,
+    "founded": 1613
+  },
+  {
+    "id": 14,
+    "name": "Город-014",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3595146,
+    "founded": 1798
+  },
+  {
+    "id": 15,
+    "name": "Город-015",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2380953,
+    "founded": 1609
+  },
+  {
+    "id": 16,
+    "name": "Город-016",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1856182,
+    "founded": 1794
+  },
+  {
+    "id": 17,
+    "name": "Город-017",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 907401,
+    "founded": 1544
+  },
+  {
+    "id": 18,
+    "name": "Город-018",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3237061,
+    "founded": 1549
+  },
+  {
+    "id": 19,
+    "name": "Город-019",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3061337,
+    "founded": 1802
+  },
+  {
+    "id": 20,
+    "name": "Город-020",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2268961,
+    "founded": 1494
+  },
+  {
+    "id": 21,
+    "name": "Город-021",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3903935,
+    "founded": 1999
+  },
+  {
+    "id": 22,
+    "name": "Город-022",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1097117,
+    "founded": 1837
+  },
+  {
+    "id": 23,
+    "name": "Город-023",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 711023,
+    "founded": 2015
+  },
+  {
+    "id": 24,
+    "name": "Город-024",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2509357,
+    "founded": 1820
+  },
+  {
+    "id": 25,
+    "name": "Город-025",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4893180,
+    "founded": 1646
+  },
+  {
+    "id": 26,
+    "name": "Город-026",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 633470,
+    "founded": 1496
+  },
+  {
+    "id": 27,
+    "name": "Город-027",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1961749,
+    "founded": 1746
+  },
+  {
+    "id": 28,
+    "name": "Город-028",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 719343,
+    "founded": 1688
+  },
+  {
+    "id": 29,
+    "name": "Город-029",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 897261,
+    "founded": 1839
+  },
+  {
+    "id": 30,
+    "name": "Город-030",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2381811,
+    "founded": 1914
+  },
+  {
+    "id": 31,
+    "name": "Город-031",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3110434,
+    "founded": 1616
+  },
+  {
+    "id": 32,
+    "name": "Город-032",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3155303,
+    "founded": 1813
+  },
+  {
+    "id": 33,
+    "name": "Город-033",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1807472,
+    "founded": 1723
+  },
+  {
+    "id": 34,
+    "name": "Город-034",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 648967,
+    "founded": 1625
+  },
+  {
+    "id": 35,
+    "name": "Город-035",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4530690,
+    "founded": 1700
+  },
+  {
+    "id": 36,
+    "name": "Город-036",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1420719,
+    "founded": 1923
+  },
+  {
+    "id": 37,
+    "name": "Город-037",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3233102,
+    "founded": 1726
+  },
+  {
+    "id": 38,
+    "name": "Город-038",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4722033,
+    "founded": 1674
+  },
+  {
+    "id": 39,
+    "name": "Город-039",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2770280,
+    "founded": 1507
+  },
+  {
+    "id": 40,
+    "name": "Город-040",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1971394,
+    "founded": 1482
+  },
+  {
+    "id": 41,
+    "name": "Город-041",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2696211,
+    "founded": 1860
+  },
+  {
+    "id": 42,
+    "name": "Город-042",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2295973,
+    "founded": 1517
+  },
+  {
+    "id": 43,
+    "name": "Город-043",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1819852,
+    "founded": 1772
+  },
+  {
+    "id": 44,
+    "name": "Город-044",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1833640,
+    "founded": 1961
+  },
+  {
+    "id": 45,
+    "name": "Город-045",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3368800,
+    "founded": 1919
+  },
+  {
+    "id": 46,
+    "name": "Город-046",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1248493,
+    "founded": 1721
+  },
+  {
+    "id": 47,
+    "name": "Город-047",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1221304,
+    "founded": 1702
+  },
+  {
+    "id": 48,
+    "name": "Город-048",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4759097,
+    "founded": 2001
+  },
+  {
+    "id": 49,
+    "name": "Город-049",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2254036,
+    "founded": 1888
+  },
+  {
+    "id": 50,
+    "name": "Город-050",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4945028,
+    "founded": 1858
+  },
+  {
+    "id": 51,
+    "name": "Город-051",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3086646,
+    "founded": 1674
+  },
+  {
+    "id": 52,
+    "name": "Город-052",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1210410,
+    "founded": 1971
+  },
+  {
+    "id": 53,
+    "name": "Город-053",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4189910,
+    "founded": 1543
+  },
+  {
+    "id": 54,
+    "name": "Город-054",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 445240,
+    "founded": 1562
+  },
+  {
+    "id": 55,
+    "name": "Город-055",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1332125,
+    "founded": 1613
+  },
+  {
+    "id": 56,
+    "name": "Город-056",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3591334,
+    "founded": 1515
+  },
+  {
+    "id": 57,
+    "name": "Город-057",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3277662,
+    "founded": 1840
+  },
+  {
+    "id": 58,
+    "name": "Город-058",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3976287,
+    "founded": 1991
+  },
+  {
+    "id": 59,
+    "name": "Город-059",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2159014,
+    "founded": 2016
+  },
+  {
+    "id": 60,
+    "name": "Город-060",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 146309,
+    "founded": 1567
+  },
+  {
+    "id": 61,
+    "name": "Город-061",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4554433,
+    "founded": 1723
+  },
+  {
+    "id": 62,
+    "name": "Город-062",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2903598,
+    "founded": 1564
+  },
+  {
+    "id": 63,
+    "name": "Город-063",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2512057,
+    "founded": 1895
+  },
+  {
+    "id": 64,
+    "name": "Город-064",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1376723,
+    "founded": 1914
+  },
+  {
+    "id": 65,
+    "name": "Город-065",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 77223,
+    "founded": 1719
+  },
+  {
+    "id": 66,
+    "name": "Город-066",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4249220,
+    "founded": 1632
+  },
+  {
+    "id": 67,
+    "name": "Город-067",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4308742,
+    "founded": 1558
+  },
+  {
+    "id": 68,
+    "name": "Город-068",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2553536,
+    "founded": 1969
+  },
+  {
+    "id": 69,
+    "name": "Город-069",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1718587,
+    "founded": 1606
+  },
+  {
+    "id": 70,
+    "name": "Город-070",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3186616,
+    "founded": 1615
+  },
+  {
+    "id": 71,
+    "name": "Город-071",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4574639,
+    "founded": 1993
+  },
+  {
+    "id": 72,
+    "name": "Город-072",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 54797,
+    "founded": 1781
+  },
+  {
+    "id": 73,
+    "name": "Город-073",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4148721,
+    "founded": 1469
+  },
+  {
+    "id": 74,
+    "name": "Город-074",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 988414,
+    "founded": 1821
+  },
+  {
+    "id": 75,
+    "name": "Город-075",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2629615,
+    "founded": 1695
+  },
+  {
+    "id": 76,
+    "name": "Город-076",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 535911,
+    "founded": 1696
+  },
+  {
+    "id": 77,
+    "name": "Город-077",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4809334,
+    "founded": 1530
+  },
+  {
+    "id": 78,
+    "name": "Город-078",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 768513,
+    "founded": 1947
+  },
+  {
+    "id": 79,
+    "name": "Город-079",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 630596,
+    "founded": 1995
+  },
+  {
+    "id": 80,
+    "name": "Город-080",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1104955,
+    "founded": 1581
+  },
+  {
+    "id": 81,
+    "name": "Город-081",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4036957,
+    "founded": 2012
+  },
+  {
+    "id": 82,
+    "name": "Город-082",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1435185,
+    "founded": 1721
+  },
+  {
+    "id": 83,
+    "name": "Город-083",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4476448,
+    "founded": 1883
+  },
+  {
+    "id": 84,
+    "name": "Город-084",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1826692,
+    "founded": 2002
+  },
+  {
+    "id": 85,
+    "name": "Город-085",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1737377,
+    "founded": 1769
+  },
+  {
+    "id": 86,
+    "name": "Город-086",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3396989,
+    "founded": 1832
+  },
+  {
+    "id": 87,
+    "name": "Город-087",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3725049,
+    "founded": 1979
+  },
+  {
+    "id": 88,
+    "name": "Город-088",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3837340,
+    "founded": 1573
+  },
+  {
+    "id": 89,
+    "name": "Город-089",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2129583,
+    "founded": 1680
+  },
+  {
+    "id": 90,
+    "name": "Город-090",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 587088,
+    "founded": 1796
+  },
+  {
+    "id": 91,
+    "name": "Город-091",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 226448,
+    "founded": 2017
+  },
+  {
+    "id": 92,
+    "name": "Город-092",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1980342,
+    "founded": 1675
+  },
+  {
+    "id": 93,
+    "name": "Город-093",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 110321,
+    "founded": 1522
+  },
+  {
+    "id": 94,
+    "name": "Город-094",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 543868,
+    "founded": 1684
+  },
+  {
+    "id": 95,
+    "name": "Город-095",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 615394,
+    "founded": 1482
+  },
+  {
+    "id": 96,
+    "name": "Город-096",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2821835,
+    "founded": 1522
+  },
+  {
+    "id": 97,
+    "name": "Город-097",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4363054,
+    "founded": 1693
+  },
+  {
+    "id": 98,
+    "name": "Город-098",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2386036,
+    "founded": 1947
+  },
+  {
+    "id": 99,
+    "name": "Город-099",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1847148,
+    "founded": 2002
+  },
+  {
+    "id": 100,
+    "name": "Город-100",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1159912,
+    "founded": 1934
+  },
+  {
+    "id": 101,
+    "name": "Город-101",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2088408,
+    "founded": 1934
+  },
+  {
+    "id": 102,
+    "name": "Город-102",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3464666,
+    "founded": 1644
+  },
+  {
+    "id": 103,
+    "name": "Город-103",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 841262,
+    "founded": 1549
+  },
+  {
+    "id": 104,
+    "name": "Город-104",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3665919,
+    "founded": 1812
+  },
+  {
+    "id": 105,
+    "name": "Город-105",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3603235,
+    "founded": 1870
+  },
+  {
+    "id": 106,
+    "name": "Город-106",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3967686,
+    "founded": 1505
+  },
+  {
+    "id": 107,
+    "name": "Город-107",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 875588,
+    "founded": 1512
+  },
+  {
+    "id": 108,
+    "name": "Город-108",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3427432,
+    "founded": 1797
+  },
+  {
+    "id": 109,
+    "name": "Город-109",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 966615,
+    "founded": 1704
+  },
+  {
+    "id": 110,
+    "name": "Город-110",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1657174,
+    "founded": 1644
+  },
+  {
+    "id": 111,
+    "name": "Город-111",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4548690,
+    "founded": 1909
+  },
+  {
+    "id": 112,
+    "name": "Город-112",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1225934,
+    "founded": 1882
+  },
+  {
+    "id": 113,
+    "name": "Город-113",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1589209,
+    "founded": 1735
+  },
+  {
+    "id": 114,
+    "name": "Город-114",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3930805,
+    "founded": 1705
+  },
+  {
+    "id": 115,
+    "name": "Город-115",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 682374,
+    "founded": 1903
+  },
+  {
+    "id": 116,
+    "name": "Город-116",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4666463,
+    "founded": 1550
+  },
+  {
+    "id": 117,
+    "name": "Город-117",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 474365,
+    "founded": 2003
+  },
+  {
+    "id": 118,
+    "name": "Город-118",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 173797,
+    "founded": 1545
+  },
+  {
+    "id": 119,
+    "name": "Город-119",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2032894,
+    "founded": 1620
+  },
+  {
+    "id": 120,
+    "name": "Город-120",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3459248,
+    "founded": 1947
+  },
+  {
+    "id": 121,
+    "name": "Город-121",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4087927,
+    "founded": 1668
+  },
+  {
+    "id": 122,
+    "name": "Город-122",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3414169,
+    "founded": 1510
+  },
+  {
+    "id": 123,
+    "name": "Город-123",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1431076,
+    "founded": 1838
+  },
+  {
+    "id": 124,
+    "name": "Город-124",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 68080,
+    "founded": 1849
+  },
+  {
+    "id": 125,
+    "name": "Город-125",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2274684,
+    "founded": 1915
+  },
+  {
+    "id": 126,
+    "name": "Город-126",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2442843,
+    "founded": 1883
+  },
+  {
+    "id": 127,
+    "name": "Город-127",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4712122,
+    "founded": 1948
+  },
+  {
+    "id": 128,
+    "name": "Город-128",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1348529,
+    "founded": 1644
+  },
+  {
+    "id": 129,
+    "name": "Город-129",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2538965,
+    "founded": 1672
+  },
+  {
+    "id": 130,
+    "name": "Город-130",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 540593,
+    "founded": 2005
+  },
+  {
+    "id": 131,
+    "name": "Город-131",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 561349,
+    "founded": 1771
+  },
+  {
+    "id": 132,
+    "name": "Город-132",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 529537,
+    "founded": 1501
+  },
+  {
+    "id": 133,
+    "name": "Город-133",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4950436,
+    "founded": 1938
+  },
+  {
+    "id": 134,
+    "name": "Город-134",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4268214,
+    "founded": 1993
+  },
+  {
+    "id": 135,
+    "name": "Город-135",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1370641,
+    "founded": 1508
+  },
+  {
+    "id": 136,
+    "name": "Город-136",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 4309974,
+    "founded": 1532
+  },
+  {
+    "id": 137,
+    "name": "Город-137",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1608812,
+    "founded": 1520
+  },
+  {
+    "id": 138,
+    "name": "Город-138",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 620097,
+    "founded": 1690
+  },
+  {
+    "id": 139,
+    "name": "Город-139",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3437114,
+    "founded": 1572
+  },
+  {
+    "id": 140,
+    "name": "Город-140",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4828783,
+    "founded": 1702
+  },
+  {
+    "id": 141,
+    "name": "Город-141",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4906325,
+    "founded": 1490
+  },
+  {
+    "id": 142,
+    "name": "Город-142",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 737726,
+    "founded": 1879
+  },
+  {
+    "id": 143,
+    "name": "Город-143",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4946198,
+    "founded": 1985
+  },
+  {
+    "id": 144,
+    "name": "Город-144",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2703902,
+    "founded": 1717
+  },
+  {
+    "id": 145,
+    "name": "Город-145",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1763450,
+    "founded": 1771
+  },
+  {
+    "id": 146,
+    "name": "Город-146",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2052242,
+    "founded": 1721
+  },
+  {
+    "id": 147,
+    "name": "Город-147",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3370092,
+    "founded": 1584
+  },
+  {
+    "id": 148,
+    "name": "Город-148",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 2566557,
+    "founded": 1918
+  },
+  {
+    "id": 149,
+    "name": "Город-149",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2702286,
+    "founded": 1524
+  },
+  {
+    "id": 150,
+    "name": "Город-150",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 128143,
+    "founded": 1919
+  },
+  {
+    "id": 151,
+    "name": "Город-151",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4772732,
+    "founded": 1552
+  },
+  {
+    "id": 152,
+    "name": "Город-152",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 664555,
+    "founded": 2000
+  },
+  {
+    "id": 153,
+    "name": "Город-153",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1838067,
+    "founded": 1968
+  },
+  {
+    "id": 154,
+    "name": "Город-154",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 2274662,
+    "founded": 1585
+  },
+  {
+    "id": 155,
+    "name": "Город-155",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2977698,
+    "founded": 1520
+  },
+  {
+    "id": 156,
+    "name": "Город-156",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2099206,
+    "founded": 1828
+  },
+  {
+    "id": 157,
+    "name": "Город-157",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2440647,
+    "founded": 1611
+  },
+  {
+    "id": 158,
+    "name": "Город-158",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3725758,
+    "founded": 2006
+  },
+  {
+    "id": 159,
+    "name": "Город-159",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2587697,
+    "founded": 1991
+  },
+  {
+    "id": 160,
+    "name": "Город-160",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 115624,
+    "founded": 2017
+  },
+  {
+    "id": 161,
+    "name": "Город-161",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2561370,
+    "founded": 1556
+  },
+  {
+    "id": 162,
+    "name": "Город-162",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1176515,
+    "founded": 1720
+  },
+  {
+    "id": 163,
+    "name": "Город-163",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1018285,
+    "founded": 1559
+  },
+  {
+    "id": 164,
+    "name": "Город-164",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4690776,
+    "founded": 1609
+  },
+  {
+    "id": 165,
+    "name": "Город-165",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2334622,
+    "founded": 1738
+  },
+  {
+    "id": 166,
+    "name": "Город-166",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1816889,
+    "founded": 1801
+  },
+  {
+    "id": 167,
+    "name": "Город-167",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1757898,
+    "founded": 1720
+  },
+  {
+    "id": 168,
+    "name": "Город-168",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4289678,
+    "founded": 1950
+  },
+  {
+    "id": 169,
+    "name": "Город-169",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2156557,
+    "founded": 1502
+  },
+  {
+    "id": 170,
+    "name": "Город-170",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 824255,
+    "founded": 1883
+  },
+  {
+    "id": 171,
+    "name": "Город-171",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2370961,
+    "founded": 1495
+  },
+  {
+    "id": 172,
+    "name": "Город-172",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 79743,
+    "founded": 1791
+  },
+  {
+    "id": 173,
+    "name": "Город-173",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1147394,
+    "founded": 1718
+  },
+  {
+    "id": 174,
+    "name": "Город-174",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1405447,
+    "founded": 1902
+  },
+  {
+    "id": 175,
+    "name": "Город-175",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4677830,
+    "founded": 1887
+  },
+  {
+    "id": 176,
+    "name": "Город-176",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4755227,
+    "founded": 1459
+  },
+  {
+    "id": 177,
+    "name": "Город-177",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 988466,
+    "founded": 1527
+  },
+  {
+    "id": 178,
+    "name": "Город-178",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1300357,
+    "founded": 2008
+  },
+  {
+    "id": 179,
+    "name": "Город-179",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 352225,
+    "founded": 1828
+  },
+  {
+    "id": 180,
+    "name": "Город-180",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4936444,
+    "founded": 2015
+  },
+  {
+    "id": 181,
+    "name": "Город-181",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1292300,
+    "founded": 1890
+  },
+  {
+    "id": 182,
+    "name": "Город-182",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1119090,
+    "founded": 1492
+  },
+  {
+    "id": 183,
+    "name": "Город-183",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2635858,
+    "founded": 1823
+  },
+  {
+    "id": 184,
+    "name": "Город-184",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 384662,
+    "founded": 1816
+  },
+  {
+    "id": 185,
+    "name": "Город-185",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1812249,
+    "founded": 1705
+  },
+  {
+    "id": 186,
+    "name": "Город-186",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 912295,
+    "founded": 1812
+  },
+  {
+    "id": 187,
+    "name": "Город-187",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4746643,
+    "founded": 1866
+  },
+  {
+    "id": 188,
+    "name": "Город-188",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1346487,
+    "founded": 1692
+  },
+  {
+    "id": 189,
+    "name": "Город-189",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1413163,
+    "founded": 1631
+  },
+  {
+    "id": 190,
+    "name": "Город-190",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3508576,
+    "founded": 1475
+  },
+  {
+    "id": 191,
+    "name": "Город-191",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1554586,
+    "founded": 1790
+  },
+  {
+    "id": 192,
+    "name": "Город-192",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3503700,
+    "founded": 1704
+  },
+  {
+    "id": 193,
+    "name": "Город-193",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2288128,
+    "founded": 1613
+  },
+  {
+    "id": 194,
+    "name": "Город-194",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 956771,
+    "founded": 1841
+  },
+  {
+    "id": 195,
+    "name": "Город-195",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 374845,
+    "founded": 1931
+  },
+  {
+    "id": 196,
+    "name": "Город-196",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1915909,
+    "founded": 1654
+  },
+  {
+    "id": 197,
+    "name": "Город-197",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3911303,
+    "founded": 1808
+  },
+  {
+    "id": 198,
+    "name": "Город-198",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2610126,
+    "founded": 1683
+  },
+  {
+    "id": 199,
+    "name": "Город-199",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 1920018,
+    "founded": 1474
+  },
+  {
+    "id": 200,
+    "name": "Город-200",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1670090,
+    "founded": 1858
+  },
+  {
+    "id": 201,
+    "name": "Город-201",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2803660,
+    "founded": 1735
+  },
+  {
+    "id": 202,
+    "name": "Город-202",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 632343,
+    "founded": 1735
+  },
+  {
+    "id": 203,
+    "name": "Город-203",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2995627,
+    "founded": 1971
+  },
+  {
+    "id": 204,
+    "name": "Город-204",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3402745,
+    "founded": 1999
+  },
+  {
+    "id": 205,
+    "name": "Город-205",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2827886,
+    "founded": 1478
+  },
+  {
+    "id": 206,
+    "name": "Город-206",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1017556,
+    "founded": 1717
+  },
+  {
+    "id": 207,
+    "name": "Город-207",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1547935,
+    "founded": 1721
+  },
+  {
+    "id": 208,
+    "name": "Город-208",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 370924,
+    "founded": 1561
+  },
+  {
+    "id": 209,
+    "name": "Город-209",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3695385,
+    "founded": 1803
+  },
+  {
+    "id": 210,
+    "name": "Город-210",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2681316,
+    "founded": 1896
+  },
+  {
+    "id": 211,
+    "name": "Город-211",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4340127,
+    "founded": 1568
+  },
+  {
+    "id": 212,
+    "name": "Город-212",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3281253,
+    "founded": 1644
+  },
+  {
+    "id": 213,
+    "name": "Город-213",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2186767,
+    "founded": 1495
+  },
+  {
+    "id": 214,
+    "name": "Город-214",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3707915,
+    "founded": 1451
+  },
+  {
+    "id": 215,
+    "name": "Город-215",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4411407,
+    "founded": 2001
+  },
+  {
+    "id": 216,
+    "name": "Город-216",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1702850,
+    "founded": 1822
+  },
+  {
+    "id": 217,
+    "name": "Город-217",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3667984,
+    "founded": 1521
+  },
+  {
+    "id": 218,
+    "name": "Город-218",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2819918,
+    "founded": 1771
+  },
+  {
+    "id": 219,
+    "name": "Город-219",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1095432,
+    "founded": 1757
+  },
+  {
+    "id": 220,
+    "name": "Город-220",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 4304051,
+    "founded": 1766
+  },
+  {
+    "id": 221,
+    "name": "Город-221",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3475848,
+    "founded": 1784
+  },
+  {
+    "id": 222,
+    "name": "Город-222",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3425579,
+    "founded": 1752
+  },
+  {
+    "id": 223,
+    "name": "Город-223",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4700748,
+    "founded": 1580
+  },
+  {
+    "id": 224,
+    "name": "Город-224",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1659271,
+    "founded": 1880
+  },
+  {
+    "id": 225,
+    "name": "Город-225",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3230501,
+    "founded": 1628
+  },
+  {
+    "id": 226,
+    "name": "Город-226",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 4824000,
+    "founded": 1758
+  },
+  {
+    "id": 227,
+    "name": "Город-227",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3456405,
+    "founded": 2011
+  },
+  {
+    "id": 228,
+    "name": "Город-228",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 53405,
+    "founded": 1761
+  },
+  {
+    "id": 229,
+    "name": "Город-229",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2456806,
+    "founded": 1665
+  },
+  {
+    "id": 230,
+    "name": "Город-230",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3656163,
+    "founded": 1779
+  },
+  {
+    "id": 231,
+    "name": "Город-231",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3950603,
+    "founded": 1902
+  },
+  {
+    "id": 232,
+    "name": "Город-232",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3759105,
+    "founded": 1668
+  },
+  {
+    "id": 233,
+    "name": "Город-233",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 4338038,
+    "founded": 1934
+  },
+  {
+    "id": 234,
+    "name": "Город-234",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1473474,
+    "founded": 1536
+  },
+  {
+    "id": 235,
+    "name": "Город-235",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2430572,
+    "founded": 1977
+  },
+  {
+    "id": 236,
+    "name": "Город-236",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2861762,
+    "founded": 1545
+  },
+  {
+    "id": 237,
+    "name": "Город-237",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2020220,
+    "founded": 1767
+  },
+  {
+    "id": 238,
+    "name": "Город-238",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1934422,
+    "founded": 1653
+  },
+  {
+    "id": 239,
+    "name": "Город-239",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1286094,
+    "founded": 1475
+  },
+  {
+    "id": 240,
+    "name": "Город-240",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 437668,
+    "founded": 1700
+  },
+  {
+    "id": 241,
+    "name": "Город-241",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4035732,
+    "founded": 1524
+  },
+  {
+    "id": 242,
+    "name": "Город-242",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3870307,
+    "founded": 1874
+  },
+  {
+    "id": 243,
+    "name": "Город-243",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4879077,
+    "founded": 1649
+  },
+  {
+    "id": 244,
+    "name": "Город-244",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3271044,
+    "founded": 1956
+  },
+  {
+    "id": 245,
+    "name": "Город-245",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3402531,
+    "founded": 1699
+  },
+  {
+    "id": 246,
+    "name": "Город-246",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1287918,
+    "founded": 1455
+  },
+  {
+    "id": 247,
+    "name": "Город-247",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 944119,
+    "founded": 1885
+  },
+  {
+    "id": 248,
+    "name": "Город-248",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 1885772,
+    "founded": 1630
+  },
+  {
+    "id": 249,
+    "name": "Город-249",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4394944,
+    "founded": 1925
+  },
+  {
+    "id": 250,
+    "name": "Город-250",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 471262,
+    "founded": 2020
+  },
+  {
+    "id": 251,
+    "name": "Город-251",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2140426,
+    "founded": 1574
+  },
+  {
+    "id": 252,
+    "name": "Город-252",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 3879079,
+    "founded": 1586
+  },
+  {
+    "id": 253,
+    "name": "Город-253",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3947709,
+    "founded": 1993
+  },
+  {
+    "id": 254,
+    "name": "Город-254",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4738605,
+    "founded": 1774
+  },
+  {
+    "id": 255,
+    "name": "Город-255",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3762574,
+    "founded": 1966
+  },
+  {
+    "id": 256,
+    "name": "Город-256",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 3629760,
+    "founded": 2011
+  },
+  {
+    "id": 257,
+    "name": "Город-257",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3790594,
+    "founded": 1612
+  },
+  {
+    "id": 258,
+    "name": "Город-258",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4031857,
+    "founded": 1910
+  },
+  {
+    "id": 259,
+    "name": "Город-259",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2224256,
+    "founded": 1703
+  },
+  {
+    "id": 260,
+    "name": "Город-260",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2376256,
+    "founded": 1983
+  },
+  {
+    "id": 261,
+    "name": "Город-261",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 4115094,
+    "founded": 1694
+  },
+  {
+    "id": 262,
+    "name": "Город-262",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 2353490,
+    "founded": 1900
+  },
+  {
+    "id": 263,
+    "name": "Город-263",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 699977,
+    "founded": 1742
+  },
+  {
+    "id": 264,
+    "name": "Город-264",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2017074,
+    "founded": 1728
+  },
+  {
+    "id": 265,
+    "name": "Город-265",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 2867293,
+    "founded": 1777
+  },
+  {
+    "id": 266,
+    "name": "Город-266",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4581125,
+    "founded": 1532
+  },
+  {
+    "id": 267,
+    "name": "Город-267",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1210765,
+    "founded": 1604
+  },
+  {
+    "id": 268,
+    "name": "Город-268",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1989961,
+    "founded": 1842
+  },
+  {
+    "id": 269,
+    "name": "Город-269",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1331823,
+    "founded": 1669
+  },
+  {
+    "id": 270,
+    "name": "Город-270",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 588790,
+    "founded": 1874
+  },
+  {
+    "id": 271,
+    "name": "Город-271",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3469191,
+    "founded": 1788
+  },
+  {
+    "id": 272,
+    "name": "Город-272",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 4601752,
+    "founded": 1927
+  },
+  {
+    "id": 273,
+    "name": "Город-273",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3537767,
+    "founded": 1513
+  },
+  {
+    "id": 274,
+    "name": "Город-274",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1785052,
+    "founded": 1880
+  },
+  {
+    "id": 275,
+    "name": "Город-275",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3317168,
+    "founded": 1470
+  },
+  {
+    "id": 276,
+    "name": "Город-276",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4879240,
+    "founded": 1839
+  },
+  {
+    "id": 277,
+    "name": "Город-277",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4051196,
+    "founded": 1456
+  },
+  {
+    "id": 278,
+    "name": "Город-278",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 3000766,
+    "founded": 1755
+  },
+  {
+    "id": 279,
+    "name": "Город-279",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 3321445,
+    "founded": 1879
+  },
+  {
+    "id": 280,
+    "name": "Город-280",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 4564921,
+    "founded": 2009
+  },
+  {
+    "id": 281,
+    "name": "Город-281",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1900012,
+    "founded": 1949
+  },
+  {
+    "id": 282,
+    "name": "Город-282",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 1890642,
+    "founded": 1729
+  },
+  {
+    "id": 283,
+    "name": "Город-283",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3706057,
+    "founded": 1947
+  },
+  {
+    "id": 284,
+    "name": "Город-284",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 293477,
+    "founded": 1848
+  },
+  {
+    "id": 285,
+    "name": "Город-285",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2869658,
+    "founded": 1864
+  },
+  {
+    "id": 286,
+    "name": "Город-286",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1434495,
+    "founded": 1928
+  },
+  {
+    "id": 287,
+    "name": "Город-287",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 1120619,
+    "founded": 1996
+  },
+  {
+    "id": 288,
+    "name": "Город-288",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 276210,
+    "founded": 1853
+  },
+  {
+    "id": 289,
+    "name": "Город-289",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 4784463,
+    "founded": 1477
+  },
+  {
+    "id": 290,
+    "name": "Город-290",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 754202,
+    "founded": 1888
+  },
+  {
+    "id": 291,
+    "name": "Город-291",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 1188329,
+    "founded": 1922
+  },
+  {
+    "id": 292,
+    "name": "Город-292",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 1574453,
+    "founded": 1501
+  },
+  {
+    "id": 293,
+    "name": "Город-293",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 2232349,
+    "founded": 1838
+  },
+  {
+    "id": 294,
+    "name": "Город-294",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 2796033,
+    "founded": 1666
+  },
+  {
+    "id": 295,
+    "name": "Город-295",
+    "country_code": "BY",
+    "emoji": "🇧🇾",
+    "population": 3864294,
+    "founded": 1784
+  },
+  {
+    "id": 296,
+    "name": "Город-296",
+    "country_code": "KZ",
+    "emoji": "🇰🇿",
+    "population": 2881159,
+    "founded": 1838
+  },
+  {
+    "id": 297,
+    "name": "Город-297",
+    "country_code": "UA",
+    "emoji": "🇺🇦",
+    "population": 2384185,
+    "founded": 1881
+  },
+  {
+    "id": 298,
+    "name": "Город-298",
+    "country_code": "GE",
+    "emoji": "🇬🇪",
+    "population": 2166206,
+    "founded": 1533
+  },
+  {
+    "id": 299,
+    "name": "Город-299",
+    "country_code": "AM",
+    "emoji": "🇦🇲",
+    "population": 3995219,
+    "founded": 1469
+  },
+  {
+    "id": 300,
+    "name": "Город-300",
+    "country_code": "RU",
+    "emoji": "🇷🇺",
+    "population": 4574974,
+    "founded": 1503
+  }
+]
